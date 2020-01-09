@@ -1,0 +1,618 @@
+"Inn","Score","Out","RoB","Pit.cnt.","R.O","X.Bat","Batter","Pitcher","wWPA","wWE","Play.Description","Date","Result","value"
+"t2","0-0","0","---","3,(1-1) CBX","","SFG","Barry Bonds","Roy Oswalt","6%","56%","Double to LF (Ground Ball thru LF Line)",2004-04-05,"Double",1
+"t4","0-1","2","---","1,(0-0) X","","SFG","Barry Bonds","Roy Oswalt","3%","36%","Double to LF (Fly Ball to Deep LF-CF)",2004-04-05,"Double",1
+"t6","1-1","0","1--","5,(3-1) BBBFB","","SFG","Barry Bonds","Roy Oswalt","8%","63%","Walk; Tucker to 2B",2004-04-05,"Walk",1
+"t8","1-4","1","12-","1,(0-0) X","RRR","SFG","Barry Bonds","Roy Oswalt","33%","45%","Home Run (Line Drive); Durham Scores; Tucker Scores",2004-04-05,"Home Run",1
+"t1","0-0","1","12-","1,(0-0) X","OO","SFG","Barry Bonds","Andy Pettitte","-9%","45%","Ground Ball Double Play: 2B-SS-1B",2004-04-06,"Groundout",1
+"t4","0-1","1","---","2,(0-1) CX","O","SFG","Barry Bonds","Andy Pettitte","-2%","33%","Foul Popfly: 3B (3B into Foul Terr.)",2004-04-06,"Foul Out",1
+"t5","4-1","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Andy Pettitte","1%","85%","Intentional Walk",2004-04-06,"Walk",1
+"t7","6-3","1","---","1,(0-0) X","","SFG","Barry Bonds","Dan Miceli","1%","89%","Single to CF (Fly Ball to Short CF)",2004-04-06,"Single",1
+"t8","7-3","2","123","2,(1-0) BX","O","SFG","Barry Bonds","Brandon Duckworth","-1%","95%","Flyball: LF",2004-04-06,"Flyball",1
+"t1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Roger Clemens","-1%","51%","Intentional Walk",2004-04-07,"Walk",1
+"t4","0-4","0","---","6,(3-2) BFCBBC","O","SFG","Barry Bonds","Roger Clemens","2%","89%","Strikeout Looking",2004-04-07,"Strikeout",1
+"t7","0-5","0","---","4,(1-2) CSBC","O","SFG","Barry Bonds","Roger Clemens","1%","98%","Strikeout Looking",2004-04-07,"Strikeout",1
+"t2","0-0","0","---","6,(3-2) BFBBCX","O","SFG","Barry Bonds","David Wells","2%","52%","Popfly: 3B (Deep 3B)",2004-04-08,"Popfly",1
+"t4","0-1","0","1--","4,(1-2) FSBX","O","SFG","Barry Bonds","David Wells","2%","61%","Groundout: 2B unassisted; Grissom to 2B",2004-04-08,"Groundout",1
+"t6","0-1","2","---","3,(1-1) CBX","O","SFG","Barry Bonds","David Wells","2%","75%","Flyball: CF (Deep CF)",2004-04-08,"Flyball",1
+"t8","0-1","2","1--","4,(3-0) IIII","","SFG","Barry Bonds","Akinori Otsuka","-5%","77%","Intentional Walk; Perez to 2B",2004-04-08,"Walk",1
+"t10","3-2","0","---","4,(2-1) BCBX","O","SFG","Barry Bonds","Antonio Osuna","2%","17%","Popfly: 2B (1B into Foul Terr.)",2004-04-08,"Popfly",1
+"t1","0-0","1","12-","2,(0-1) CX","O","SFG","Barry Bonds","Brian Lawrence","4%","50%","Flyball: RF (CF-RF)",2004-04-10,"Flyball",1
+"t3","0-1","1","12-","7,(3-2) BBBCF>F*B","","SFG","Barry Bonds","Brian Lawrence","-7%","50%","Walk; Durham to 3B; Snow to 2B",2004-04-10,"Walk",1
+"t5","4-4","1","---","4,(2-1) BBCX","","SFG","Barry Bonds","Brian Lawrence","-3%","50%","Single to CF (Fly Ball to Short CF-RF)",2004-04-10,"Single",1
+"t8","4-6","0","---","3,(2-0) ..BBX","O","SFG","Barry Bonds","Akinori Otsuka","3%","91%","Popfly: SS",2004-04-10,"Popfly",1
+"t1","0-0","2","1--","4,(2-1) BBCX","O","SFG","Barry Bonds","Jake Peavy","-2%","45%","Flyball: LF",2004-04-11,"Flyball",1
+"t4","0-0","0","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Jake Peavy","7%","61%","Walk; Grissom to 2B",2004-04-11,"Walk",1
+"t6","0-3","2","1--","4,(1-2) SCBX","","SFG","Barry Bonds","Jake Peavy","4%","14%","Double to LF (Ground Ball); Snow to 3B",2004-04-11,"Double",1
+"t8","0-3","1","-23","4,(3-0) .IIII","","SFG","Barry Bonds","Eddie Oropesa","4%","19%","Intentional Walk",2004-04-11,"Walk",1
+"t9","5-3","1","1--","4,(2-1) BBFX","O","SFG","Barry Bonds","Jason Szuminski","-1%","92%","Flyball: LF",2004-04-11,"Flyball",1
+"b1","1-1","1","--3","4,(3-0) BBBB","","SFG","Barry Bonds","Matt Kinney","2%","61%","Walk",2004-04-12,"Walk",1
+"b3","1-3","2","-2-","1,(0-0) X","R","SFG","Barry Bonds","Matt Kinney","10%","41%","Single to CF (Ground Ball); Durham Scores",2004-04-12,"Single",1
+"b5","2-4","2","12-","5,(3-1) BB*BFX","RRR","SFG","Barry Bonds","Matt Kinney","39%","67%","Home Run (Line Drive); Durham Scores; Snow Scores",2004-04-12,"Home Run",1
+"b7","6-5","2","---","2,(1-0) BX","","SFG","Barry Bonds","Jeff Bennett","2%","77%","Double to 3B (Pop Fly to LF-CF)",2004-04-12,"Double",1
+"b1","2-0","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Chris Capuano","2%","73%","Walk",2004-04-13,"Walk",1
+"b3","3-0","0","---","3,(0-2) CCX","O","SFG","Barry Bonds","Chris Capuano","-1%","83%","Foul Popfly: 3B (3B into Foul Terr.)",2004-04-13,"Foul Out",1
+"b5","3-0","1","---","1,(0-0) X","","SFG","Barry Bonds","Chris Capuano","1%","88%","Single to RF (Line Drive)",2004-04-13,"Single",1
+"b7","3-1","2","---","4,(1-2) BFFX","R","SFG","Barry Bonds","Ben Ford","6%","93%","Home Run (Fly Ball)",2004-04-13,"Home Run",1
+"b7","0-3","2","12-","4,(3-0) ..IIII","","SFG","Barry Bonds","Jeff Bennett","-5%","83%","Intentional Walk; Pierzynski to 3B; Tucker to 2B",2004-04-14,"Walk",1
+"b2","0-1","0","---","5,(2-2) FSBBX","O","SFG","Barry Bonds","Odalis Perez","3%","58%","Popfly: 3B",2004-04-16,"Popfly",1
+"b4","0-1","2","---","7,(3-2) BBCCFBB","","SFG","Barry Bonds","Odalis Perez","-2%","61%","Walk",2004-04-16,"Walk",1
+"b6","0-2","2","1--","3,(0-2) FFS","O","SFG","Barry Bonds","Odalis Perez","4%","81%","Strikeout Swinging",2004-04-16,"Strikeout",1
+"b9","0-3","1","1--","7,(2-2) FLBBFFX","RR","SFG","Barry Bonds","Eric Gagne","-7%","88%","Home Run (Line Drive); Hammonds Scores",2004-04-16,"Home Run",1
+"b2","0-0","0","---","5,(3-1) BBCBB","","SFG","Barry Bonds","Jose Lima","-4%","41%","Walk",2004-04-17,"Walk",1
+"b3","1-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jose Lima","-1%","34%","Intentional Walk",2004-04-17,"Walk",1
+"b5","2-0","2","1--","2,(1-0) *BX","O","SFG","Barry Bonds","Jose Lima","2%","22%","Popfly: 3B (Short LF)",2004-04-17,"Popfly",1
+"b8","2-4","2","---","5,(3-1) CBBBX","R","SFG","Barry Bonds","Darren Dreifort","-11%","80%","Home Run (Fly Ball)",2004-04-17,"Home Run",1
+"b1","0-0","2","1--","6,(3-2) BBC*BC>X","R","SFG","Barry Bonds","Jeff Weaver","-11%","37%","Double to RF (Line Drive to Deep RF Line); Grissom Scores",2004-04-18,"Double",1
+"b4","1-1","0","---","5,(3-1) CBBBX","R","SFG","Barry Bonds","Jeff Weaver","-12%","32%","Home Run (Fly Ball to CF-RF)",2004-04-18,"Home Run",1
+"b6","3-7","0","-2-","3,(1-1) BCX","RR","SFG","Barry Bonds","Jeff Weaver","-11%","74%","Home Run (Fly Ball to LF-CF); Grissom Scores",2004-04-18,"Home Run",1
+"b7","5-7","1","12-","2,(0-1) .CX","R","SFG","Barry Bonds","Tom Martin","-21%","49%","Single to RF (Ground Ball); Snow Scores; Grissom to 3B",2004-04-18,"Single",1
+"b1","1-0","1","-2-","4,(1-2) CSBX","O","SFG","Barry Bonds","David Wells","-3%","63%","Lineout: RF (CF-RF); Grissom to 3B",2004-04-19,"Lineout",1
+"b3","3-0","2","---","2,(0-1) CX","R","SFG","Barry Bonds","David Wells","6%","88%","Home Run (Line Drive)",2004-04-19,"Home Run",1
+"b5","4-0","2","---","5,(3-1) BBBCB","","SFG","Barry Bonds","David Wells","0%","92%","Walk",2004-04-19,"Walk",1
+"b8","4-1","0","---","8,(3-2) BBFSFBFB","","SFG","Barry Bonds","Antonio Osuna","0%","98%","Walk",2004-04-19,"Walk",1
+"b1","0-3","2","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Brian Lawrence","-2%","74%","Walk; Grissom to 2B",2004-04-20,"Walk",1
+"b4","0-6","0","1--","3,(2-0) BBX","RR","SFG","Barry Bonds","Brian Lawrence","-7%","85%","Home Run (Line Drive); Grissom Scores",2004-04-20,"Home Run",1
+"b6","3-7","0","---","5,(3-1) BBBCB","","SFG","Barry Bonds","Brian Lawrence","-3%","87%","Walk",2004-04-20,"Walk",1
+"b7","5-7","2","-2-","4,(3-0) .IIII","","SFG","Barry Bonds","Eddie Oropesa","-2%","78%","Intentional Walk",2004-04-20,"Walk",1
+"b2","0-2","0","---","5,(2-2) CBBCC","O","SFG","Barry Bonds","Jake Peavy","3%","68%","Strikeout Looking",2004-04-21,"Strikeout",1
+"b4","0-7","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jake Peavy","-1%","96%","Walk",2004-04-21,"Walk",1
+"b6","0-8","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jake Peavy","-1%","98%","Walk",2004-04-21,"Walk",1
+"t1","0-0","1","12-","3,(2-0) BBX","R","SFG","Barry Bonds","Odalis Perez","-12%","34%","Single to CF (Ground Ball); Alfonzo Scores; Grissom to 3B",2004-04-23,"Single",1
+"t3","2-1","1","1--","4,(3-0) BBBI","","SFG","Barry Bonds","Odalis Perez","-3%","35%","Intentional Walk; Grissom to 2B",2004-04-23,"Walk",1
+"t5","4-2","1","---","2,(0-1) SX","","SFG","Barry Bonds","Odalis Perez","-2%","24%","Single to RF (Line Drive)",2004-04-23,"Single",1
+"t7","4-4","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Guillermo Mota","-2%","55%","Intentional Walk",2004-04-23,"Walk",1
+"t9","4-4","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Eric Gagne","-3%","57%","Intentional Walk",2004-04-23,"Walk",1
+"t12","4-4","1","---","4,(3-0) IIII","","SFG","Barry Bonds","Darren Dreifort","-6%","50%","Intentional Walk",2004-04-23,"Walk",1
+"t1","1-0","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Weaver","2%","63%","Intentional Walk",2004-04-24,"Walk",1
+"t3","3-1","1","---","6,(3-2) CBBBCB","","SFG","Barry Bonds","Jeff Weaver","2%","72%","Walk",2004-04-24,"Walk",1
+"t5","3-1","2","---","5,(2-2) CBFBX","O","SFG","Barry Bonds","Jeff Weaver","-1%","72%","Groundout: SS-1B",2004-04-24,"Groundout",1
+"t8","3-1","0","1--","5,(3-1) BBCBB","","SFG","Barry Bonds","Jeff Weaver","3%","91%","Walk; Alfonzo to 2B",2004-04-24,"Walk",1
+"t2","0-0","0","---","2,(0-1) CX","O","SFG","Barry Bonds","Kazuhisa Ishii","2%","52%","Popfly: 3B",2004-04-25,"Popfly",1
+"t4","0-6","2","1--","3,(1-1) CBX","","SFG","Barry Bonds","Kazuhisa Ishii","-1%","96%","Single to RF (Line Drive); Alfonzo to 2B",2004-04-25,"Single",1
+"b2","0-0","0","---","7,(3-2) BBCSBFS","O","SFG","Barry Bonds","Horacio Ramirez","-2%","53%","Strikeout Swinging",2004-04-26,"Strikeout",1
+"b3","3-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Horacio Ramirez","0%","83%","Intentional Walk",2004-04-26,"Walk",1
+"b5","3-2","2","12-","4,(3-0) IIII","","SFG","Barry Bonds","Horacio Ramirez","3%","73%","Intentional Walk; Alfonzo to 3B; Feliz to 2B",2004-04-26,"Walk",1
+"b8","3-2","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Kevin Gryboski","1%","87%","Walk",2004-04-26,"Walk",1
+"b1","1-0","2","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jaret Wright","-1%","38%","Walk",2004-04-27,"Walk",1
+"b3","1-4","1","12-","4,(1-2) FBFX","O","SFG","Barry Bonds","Jaret Wright","5%","77%","Flyball: CF",2004-04-27,"Flyball",1
+"b5","1-5","2","--3","3,(0-2) CCX","O","SFG","Barry Bonds","Jaret Wright","3%","92%","Foul Popfly: C (Behind Home)",2004-04-27,"Foul Out",1
+"b8","2-5","0","---","5,(3-1) BBSBB","","SFG","Barry Bonds","Chris Reitsma","-5%","86%","Walk",2004-04-27,"Walk",1
+"b1","0-0","1","-23","4,(3-0) B.III","","SFG","Barry Bonds","Russ Ortiz","1%","64%","Intentional Walk",2004-04-28,"Walk",1
+"b3","0-2","2","1-3","5,(2-2) BBCCC","O","SFG","Barry Bonds","Russ Ortiz","-6%","27%","Strikeout Looking",2004-04-28,"Strikeout",1
+"b4","5-2","1","1-3","5,(3-1) ..C>B.III","","SFG","Barry Bonds","Antonio Alfonseca","1%","90%","Intentional Walk; Grissom to 2B",2004-04-28,"Walk",1
+"b5","10-4","2","---","6,(3-2) BBSSBX","O","SFG","Barry Bonds","Antonio Alfonseca","0%","97%","Groundout: SS-1B",2004-04-28,"Groundout",1
+"b8","10-6","0","---","1,(0-0) ..X","","SFG","Barry Bonds","C.J. Nitkowski","0%","99%","Single to RF (Fly Ball)",2004-04-28,"Single",1
+"b2","0-0","0","---","4,(2-1) BFBX","","SFG","Barry Bonds","Brad Penny","-4%","41%","Single to RF (Ground Ball)",2004-04-29,"Single",1
+"b4","0-2","1","--3","4,(3-0) IIII","","SFG","Barry Bonds","Brad Penny","-3%","60%","Intentional Walk",2004-04-29,"Walk",1
+"b6","0-2","1","---","6,(3-2) BCBCBX","R","SFG","Barry Bonds","Brad Penny","-13%","64%","Home Run (Fly Ball to CF-RF)",2004-04-29,"Home Run",1
+"b8","2-3","0","12-","6,(3-2) .BBCBCB","","SFG","Barry Bonds","Matt Perisho","-17%","29%","Walk; Mohr to 3B; Grissom to 2B",2004-04-29,"Walk",1
+"b1","1-4","1","--3","5,(3-1) BC*BBI","","SFG","Barry Bonds","Dontrelle Willis","2%","33%","Intentional Walk",2004-04-30,"Walk",1
+"b2","7-9","0","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Tommy Phelps","6%","45%","Walk; Grissom to 2B",2004-04-30,"Walk",1
+"b3","9-9","0","12-","4,(2-1) FBBX","OO","SFG","Barry Bonds","Nate Bump","-11%","54%","Ground Ball Double Play: SS-1B; Dallimore to 3B",2004-04-30,"Groundout",1
+"b5","9-9","1","123","5,(3-1) ..BFBBB","R","SFG","Barry Bonds","Matt Perisho","11%","79%","Walk; Cruz Scores; Dallimore to 3B; Grissom to 2B",2004-04-30,"Walk",1
+"b7","12-9","0","---","1,(0-0) X","O","SFG","Barry Bonds","Matt Perisho","-1%","93%","Flyball: LF",2004-04-30,"Flyball",1
+"b2","0-2","0","---","2,(1-0) BX","O","SFG","Barry Bonds","Carl Pavano","-3%","32%","Lineout: CF (Deep CF)",2004-05-01,"Lineout",1
+"b3","1-2","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Carl Pavano","2%","41%","Intentional Walk",2004-05-01,"Walk",1
+"b5","2-3","1","---","4,(3-0) IIII","","SFG","Barry Bonds","Carl Pavano","4%","42%","Intentional Walk",2004-05-01,"Walk",1
+"b7","2-3","2","--3","4,(3-0) IIII","","SFG","Barry Bonds","Carl Pavano","3%","37%","Intentional Walk",2004-05-01,"Walk",1
+"b8","6-3","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Armando Benitez","0%","97%","Intentional Walk",2004-05-01,"Walk",1
+"b11","8-8","0","---","6,(3-2) ...BFFBBB","","SFG","Barry Bonds","Matt Perisho","7%","72%","Walk",2004-05-02,"Walk",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Al Leiter","2%","52%","Flyball: LF",2004-05-06,"Flyball",1
+"t4","0-0","1","12-","2,(1-0) BX","O","SFG","Barry Bonds","Al Leiter","5%","51%","Foul Popfly: C (Behind Home)",2004-05-06,"Foul Out",1
+"t7","0-0","1","---","6,(3-2) 1BBCF.BX","O","SFG","Barry Bonds","Al Leiter","3%","57%","Flyball: RF",2004-05-06,"Flyball",1
+"t9","1-1","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Braden Looper","-3%","57%","Intentional Walk",2004-05-06,"Walk",1
+"t11","1-1","2","12-","4,(3-0) IIII","","SFG","Barry Bonds","Mike Stanton","-6%","47%","Intentional Walk; Alfonzo to 3B; Grissom to 2B",2004-05-06,"Walk",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Cory Lidle","-2%","48%","Groundout: SS-1B",2004-05-07,"Groundout",1
+"t5","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Cory Lidle","-3%","47%","Groundout: 1B unassisted",2004-05-07,"Groundout",1
+"t7","0-0","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Cory Lidle","2%","45%","Intentional Walk",2004-05-07,"Walk",1
+"t8","5-0","2","-2-","5,(3-1) .BFBBB","","SFG","Barry Bonds","Phil Norton","0%","98%","Walk",2004-05-07,"Walk",1
+"t1","1-0","2","---","2,(1-0) BX","O","SFG","Barry Bonds","Paul Wilson","1%","45%","Flyball: LF",2004-05-08,"Flyball",1
+"t3","2-2","2","---","2,(0-1) CX","O","SFG","Barry Bonds","Paul Wilson","1%","56%","Lineout: RF",2004-05-08,"Lineout",1
+"t5","2-2","1","12-","4,(3-0) BBBB","","SFG","Barry Bonds","Paul Wilson","-8%","37%","Walk; Tucker to 3B; Hammonds to 2B",2004-05-08,"Walk",1
+"t8","2-4","0","---","3,(1-1) .BFX","O","SFG","Barry Bonds","Todd Jones","4%","90%","Flyball: CF (Deep CF)",2004-05-08,"Flyball",1
+"t1","2-0","1","---","6,(3-2) BCBFBS","O","SFG","Barry Bonds","Todd Van Poppel","-1%","66%","Strikeout Swinging",2004-05-09,"Strikeout",1
+"t4","2-1","1","---","1,(0-0) X","O","SFG","Barry Bonds","Todd Van Poppel","-2%","59%","Groundout: 2B-1B (Short RF)",2004-05-09,"Groundout",1
+"t6","2-1","1","1--","4,(2-1) BCBX","","SFG","Barry Bonds","John Riedling","4%","70%","Reached on E4/attempted forceout (Ground Ball); Grissom to 2B",2004-05-09,"Reached on Error",1
+"t8","5-5","0","---","5,(0-2) .CCFFX","O","SFG","Barry Bonds","Todd Jones","-5%","45%","Flyball: LF",2004-05-09,"Flyball",1
+"t10","6-6","0","---","4,(3-0) IIII","","SFG","Barry Bonds","Danny Graves","8%","58%","Intentional Walk",2004-05-09,"Walk",1
+"b2","0-2","0","---","1,(0-0) X","","SFG","Barry Bonds","Kevin Millwood","-6%","59%","Double to 3B (Ground Ball to Short LF)",2004-05-11,"Double",1
+"b4","1-5","0","-23","4,(3-0) IIII","","SFG","Barry Bonds","Kevin Millwood","-4%","68%","Intentional Walk",2004-05-11,"Walk",1
+"b6","2-8","2","1--","1,(0-0) X","O","SFG","Barry Bonds","Kevin Millwood","1%","98%","Lineout: SS",2004-05-11,"Lineout",1
+"b8","3-10","1","1--","6,(3-2) CBFBBX","O","SFG","Barry Bonds","Rheal Cormier","0%","100%","Flyball: LF (LF-CF)",2004-05-11,"Flyball",1
+"b1","1-0","0","12-","3,(1-1) FBX","OO","SFG","Barry Bonds","Randy Wolf","-9%","63%","Ground Ball Double Play: 2B-SS-1B; Alfonzo to 3B",2004-05-12,"Groundout",1
+"b4","2-2","0","---","2,(0-1) CX","O","SFG","Barry Bonds","Randy Wolf","-3%","53%","Flyball: LF",2004-05-12,"Flyball",1
+"b5","3-2","2","1--","3,(1-1) SBX","O","SFG","Barry Bonds","Randy Wolf","-2%","66%","Lineout: LF (Deep LF-CF)",2004-05-12,"Lineout",1
+"b8","4-3","0","---","2,(1-0) BX","O","SFG","Barry Bonds","Ryan Madson","-1%","85%","Groundout: 1B unassisted",2004-05-12,"Groundout",1
+"b1","0-0","2","1--","6,(3-2) BCBCB>X","","SFG","Barry Bonds","Vicente Padilla","-3%","45%","Single to RF (Line Drive); Grissom to 3B",2004-05-13,"Single",1
+"b3","2-3","2","---","5,(2-2) BFFBC","O","SFG","Barry Bonds","Vicente Padilla","1%","62%","Strikeout Looking",2004-05-13,"Strikeout",1
+"b5","2-4","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Vicente Padilla","-2%","72%","Intentional Walk",2004-05-13,"Walk",1
+"b7","2-4","2","12-","5,(3-1) .BFBB*B","","SFG","Barry Bonds","Rheal Cormier","-6%","73%","Walk; Tucker to 3B; Grissom to 2B",2004-05-13,"Walk",1
+"b9","2-4","1","-23","4,(3-0) IIII","","SFG","Barry Bonds","Ryan Madson","-4%","66%","Intentional Walk",2004-05-13,"Walk",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Matt Clement","-2%","48%","Flyball: CF (Deep CF)",2004-05-18,"Flyball",1
+"t4","0-0","0","---","7,(3-2) BFBFBFB","","SFG","Barry Bonds","Matt Clement","4%","54%","Walk",2004-05-18,"Walk",1
+"t6","1-0","1","---","2,(0-1) CX","O","SFG","Barry Bonds","Matt Clement","-2%","61%","Groundout: P-1B",2004-05-18,"Groundout",1
+"t9","1-0","0","---","7,(3-2) .CBCBBFB","","SFG","Barry Bonds","Kyle Farnsworth","3%","86%","Walk",2004-05-18,"Walk",1
+"t2","0-0","0","---","4,(1-2) FCBC","O","SFG","Barry Bonds","Livan Hernandez","-2%","48%","Strikeout Looking",2004-05-21,"Strikeout",1
+"t4","0-1","2","---","6,(3-2) FFBBBX","","SFG","Barry Bonds","Livan Hernandez","2%","35%","Single to P (Ground Ball)",2004-05-21,"Single",1
+"t7","0-3","0","---","6,(3-2) BFBFBB","","SFG","Barry Bonds","Livan Hernandez","4%","15%","Walk",2004-05-21,"Walk",1
+"t7","6-3","2","-2-","5,(2-2) BBCFX","O","SFG","Barry Bonds","Luis Ayala","-2%","86%","Groundout: P-SS-1B",2004-05-21,"Groundout",1
+"t1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Claudio Vargas","1%","49%","Intentional Walk",2004-05-22,"Walk",1
+"t4","0-1","0","1--","8,(3-2) BSFFBFB>B","","SFG","Barry Bonds","Claudio Vargas","7%","50%","Walk; Grissom to 2B",2004-05-22,"Walk",1
+"t6","2-2","2","---","4,(3-0) BBBX","O","SFG","Barry Bonds","Claudio Vargas","-2%","42%","Flyball: CF",2004-05-22,"Flyball",1
+"t9","2-2","1","---","7,(3-2) BCBFFBX","O","SFG","Barry Bonds","Chad Cordero","-5%","39%","Flyball: LF (Deep LF)",2004-05-22,"Flyball",1
+"t11","2-2","0","123","2,(1-0) BX","R","SFG","Barry Bonds","Jeremy Fikac","10%","93%","Fielder's Choice 2B; Tucker Scores; Alfonzo to 3B; Grissom to 2B",2004-05-22,"FC",1
+"b1","2-0","1","---","2,(0-1) CX","","SFG","Barry Bonds","Casey Fossum","2%","73%","Single to RF (Line Drive to CF-RF)",2004-05-25,"Single",1
+"b4","2-0","0","---","3,(1-1) BCX","O","SFG","Barry Bonds","Casey Fossum","-2%","77%","Flyball: CF",2004-05-25,"Flyball",1
+"b6","3-0","1","---","4,(2-1) CBBX","R","SFG","Barry Bonds","Casey Fossum","4%","95%","Home Run/Fan Interference (Line Drive)",2004-05-25,"Home Run",1
+"b7","4-0","2","12-","3,(1-1) .CBX","O","SFG","Barry Bonds","Randy Choate","-1%","96%","Groundout: 3B-1B",2004-05-25,"Groundout",1
+"b1","0-0","2","1--","6,(3-2) BCFBB>X","O","SFG","Barry Bonds","Casey Daigle","-2%","50%","Flyball: CF (Deep CF)",2004-05-26,"Flyball",1
+"b4","1-1","0","---","5,(2-2) BFSBX","R","SFG","Barry Bonds","Casey Daigle","12%","68%","Home Run (Fly Ball)",2004-05-26,"Home Run",1
+"b6","2-1","0","---","2,(1-0) BX","O","SFG","Barry Bonds","Casey Daigle","-2%","72%","Lineout: LF (Deep LF)",2004-05-26,"Lineout",1
+"b8","2-3","1","12-","4,(3-0) .BBBB","","SFG","Barry Bonds","Randy Choate","15%","56%","Walk; Tucker to 3B; Grissom to 2B",2004-05-26,"Walk",1
+"b2","0-1","0","---","2,(0-1) CX","O","SFG","Barry Bonds","Steve Sparks","-3%","42%","Popfly: 2B",2004-05-27,"Popfly",1
+"b3","2-1","2","1-3","4,(3-0) IIII","","SFG","Barry Bonds","Steve Sparks","2%","69%","Intentional Walk; Alfonzo to 2B",2004-05-27,"Walk",1
+"b5","4-2","1","---","1,(0-0) X","","SFG","Barry Bonds","Steve Sparks","2%","81%","Single to LF (Ground Ball thru LF-CF)",2004-05-27,"Single",1
+"b7","4-3","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Mike Koplove","1%","82%","Intentional Walk",2004-05-27,"Walk",1
+"b10","4-4","1","---","4,(3-0) IIII","","SFG","Barry Bonds","Jose Valverde","6%","64%","Intentional Walk",2004-05-27,"Walk",1
+"b1","0-0","2","1--","4,(1-2) FCB11X","","SFG","Barry Bonds","Shawn Estes","2%","54%","Single to RF (Ground Ball); Grissom to 2B",2004-05-28,"Single",1
+"b4","0-2","0","---","1,(0-0) X","O","SFG","Barry Bonds","Shawn Estes","-3%","28%","Groundout: 2B-1B (Short RF)",2004-05-28,"Groundout",1
+"b6","0-2","0","---","4,(2-1) BBFX","","SFG","Barry Bonds","Shawn Estes","6%","32%","Single to 2B (Ground Ball to Short RF)",2004-05-28,"Single",1
+"b7","0-2","2","12-","2,(0-1) .CX","O","SFG","Barry Bonds","Javier Lopez","-8%","14%","Lineout: SS (Short CF)",2004-05-28,"Lineout",1
+"b9","2-2","2","1--","6,(3-2) .BFFBB>X","RR","SFG","Barry Bonds","Tim Harikkala","43%","100%","Home Run (Fly Ball); Grissom Scores",2004-05-28,"Home Run",1
+"b1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Fassero","1%","54%","Intentional Walk",2004-05-29,"Walk",1
+"b3","1-1","1","1--","3,(0-2) CSC","O","SFG","Barry Bonds","Jeff Fassero","-3%","53%","Strikeout Looking",2004-05-29,"Strikeout",1
+"b6","1-2","0","1--","1,(0-0) X","R","SFG","Barry Bonds","Jeff Fassero","21%","67%","Double to CF (Line Drive to Deep CF-RF); Alfonzo Scores",2004-05-29,"Double",1
+"b7","5-2","2","---","4,(3-0) BBBB","","SFG","Barry Bonds","Vladimir Nunez","0%","93%","Walk",2004-05-29,"Walk",1
+"t2","0-0","0","---","6,(1-2) FBSFFX","R","SFG","Barry Bonds","Casey Daigle","10%","60%","Home Run (Fly Ball)",2004-05-31,"Home Run",1
+"t4","2-0","0","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Casey Daigle","2%","79%","Intentional Walk",2004-05-31,"Walk",1
+"t5","4-1","2","123","5,(2-2) .CBCBX","O","SFG","Barry Bonds","Randy Choate","-4%","80%","Groundout: P unassisted",2004-05-31,"Groundout",1
+"t8","5-2","0","---","5,(3-1) .CBBBB","","SFG","Barry Bonds","Andrew Good","1%","93%","Walk",2004-05-31,"Walk",1
+"t9","7-2","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Scott Service","0%","99%","Intentional Walk",2004-05-31,"Walk",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Steve Sparks","2%","52%","Groundout: P-1B",2004-06-01,"Groundout",1
+"t4","0-3","1","1--","5,(2-2) CSBBX","","SFG","Barry Bonds","Steve Sparks","-6%","74%","Single to RF (Line Drive to Deep RF); Grissom to 3B",2004-06-01,"Single",1
+"t6","1-3","2","---","1,(0-0) X","O","SFG","Barry Bonds","Steve Sparks","1%","84%","Lineout: 2B (Short RF)",2004-06-01,"Lineout",1
+"t7","5-3","2","-23","4,(3-0) IIII","","SFG","Barry Bonds","Mike Koplove","-1%","18%","Intentional Walk",2004-06-01,"Walk",1
+"t1","0-0","2","1--","2,(0-1) CH","","SFG","Barry Bonds","Randy Johnson","-2%","51%","Hit By Pitch; Perez to 2B",2004-06-02,"HBP",1
+"t4","0-4","0","---","5,(3-1) SBBBX","O","SFG","Barry Bonds","Randy Johnson","2%","89%","Groundout: 1B unassisted",2004-06-02,"Groundout",1
+"t5","4-5","1","---","4,(2-1) BBCX","O","SFG","Barry Bonds","Randy Johnson","2%","69%","Groundout: 2B-1B",2004-06-02,"Groundout",1
+"t7","4-8","2","1--","3,(0-2) .CCX","","SFG","Barry Bonds","Shane Nance","-1%","94%","Single to RF (Line Drive); Grissom to 2B",2004-06-02,"Single",1
+"t9","6-8","1","---","2,(1-0) BX","O","SFG","Barry Bonds","Jose Valverde","3%","99%","Popfly: 1B",2004-06-02,"Popfly",1
+"t1","0-0","1","-23","4,(3-0) IIII","","SFG","Barry Bonds","Brandon Webb","-1%","41%","Intentional Walk",2004-06-03,"Walk",1
+"t2","4-0","2","1--","6,(3-2) BBSCB>X","O","SFG","Barry Bonds","Brandon Webb","1%","19%","Groundout: SS-1B",2004-06-03,"Groundout",1
+"t5","4-3","2","---","6,(3-2) BBSSBB","","SFG","Barry Bonds","Brandon Webb","-1%","40%","Walk",2004-06-03,"Walk",1
+"t7","4-8","1","1--","4,(3-0) B*BBB","","SFG","Barry Bonds","Steve Randolph","-3%","91%","Walk; Alfonzo to 2B",2004-06-03,"Walk",1
+"t2","0-2","0","---","4,(2-1) SBBX","O","SFG","Barry Bonds","Joe Kennedy","-2%","29%","Groundout: P-1B",2004-06-04,"Groundout",1
+"t3","2-2","2","1--","4,(3-0) BB*BI","","SFG","Barry Bonds","Joe Kennedy","2%","49%","Intentional Walk; Grissom to 2B",2004-06-04,"Walk",1
+"t5","2-2","1","1--","2,(0-1) CX","RR","SFG","Barry Bonds","Jeff Fassero","21%","71%","Home Run (Fly Ball); Alfonzo Scores",2004-06-04,"Home Run",1
+"t6","7-2","1","1--","5,(3-1) BFBBB","","SFG","Barry Bonds","Allan Simpson","1%","95%","Walk; Alfonzo to 2B",2004-06-04,"Walk",1
+"t1","0-0","2","1--","4,(3-0) IIII","","SFG","Barry Bonds","Jason Jennings","-2%","51%","Intentional Walk; Tucker to 2B",2004-06-05,"Walk",1
+"t3","0-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jason Jennings","-1%","61%","Intentional Walk",2004-06-05,"Walk",1
+"t5","1-4","1","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Jason Jennings","-4%","78%","Walk; Grissom to 2B",2004-06-05,"Walk",1
+"t7","1-8","2","---","4,(2-1) BCBX","","SFG","Barry Bonds","Tim Harikkala","0%","99%","Double to RF (Fly Ball to Deep RF)",2004-06-05,"Double",1
+"t1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Aaron Cook","1%","49%","Intentional Walk",2004-06-06,"Walk",1
+"t3","3-0","0","---","1,(0-0) X","","SFG","Barry Bonds","Aaron Cook","2%","80%","Single to LF (Line Drive)",2004-06-06,"Single",1
+"t5","3-2","0","1--","5,(3-1) BBBCB","","SFG","Barry Bonds","Aaron Cook","5%","72%","Walk; Feliz to 2B",2004-06-06,"Walk",1
+"t6","8-2","1","---","2,(1-0) BX","R","SFG","Barry Bonds","Scott Dohmann","2%","98%","Home Run (Fly Ball)",2004-06-06,"Home Run",1
+"t8","9-2","1","12-","3,(2-0) BBX","O","SFG","Barry Bonds","Steve Reed","0%","99%","Flyball: LF (Deep LF)",2004-06-06,"Flyball",1
+"t7","6-5","2","1--","4,(3-0) .IIII","","SFG","Barry Bonds","Steve Reed","2%","66%","Intentional Walk; Minor to 2B",2004-06-07,"Walk",1
+"t1","1-0","1","1--","6,(3-2) BCB1BF>B","","SFG","Barry Bonds","Doug Waechter","6%","65%","Walk, Grissom Steals 2B; Grissom to 3B",2004-06-08,"Walk",1
+"t3","4-0","1","---","4,(1-2) FFBS","O","SFG","Barry Bonds","Dewon Brazelton","-1%","83%","Strikeout Swinging",2004-06-08,"Strikeout",1
+"t6","4-0","1","---","5,(3-1) BSBBB","","SFG","Barry Bonds","Dewon Brazelton","1%","91%","Walk",2004-06-08,"Walk",1
+"t7","4-0","2","123","1,(0-0) .H","R","SFG","Barry Bonds","Trever Miller","3%","97%","Hit By Pitch; Tucker Scores/unER; Perez to 3B; Grissom to 2B",2004-06-08,"HBP",1
+"t9","6-1","1","1-3","5,(2-2) CFBBX","R","SFG","Barry Bonds","Lance Carter","0%","100%","Single to RF (Ground Ball); Tucker Scores; Grissom to 2B",2004-06-08,"Single",1
+"t1","1-0","0","12-","2,(0-1) CX","O","SFG","Barry Bonds","Mark Hendrickson","0%","33%","Groundout: P-1B; Mohr to 3B; Grissom to 2B",2004-06-09,"Groundout",1
+"t3","1-0","2","1--","4,(1-2) CS*B1X","O","SFG","Barry Bonds","Mark Hendrickson","2%","44%","Groundout: 2B-1B (Short RF)",2004-06-09,"Groundout",1
+"t6","1-0","1","---","2,(0-1) FX","O","SFG","Barry Bonds","Mark Hendrickson","2%","39%","Groundout: 2B-1B (Short RF)",2004-06-09,"Groundout",1
+"t8","1-0","2","---","4,(2-1) BBTX","","SFG","Barry Bonds","Mark Hendrickson","-1%","29%","Single to LF (Line Drive to LF-CF)",2004-06-09,"Single",1
+"t10","3-3","0","---","2,(0-1) CX","O","SFG","Barry Bonds","Danys Baez","6%","56%","Popfly: 3B",2004-06-09,"Popfly",1
+"t1","0-0","2","1--","3,(1-1) BSX","O","SFG","Barry Bonds","Rodrigo Lopez","-2%","45%","Groundout: 1B unassisted",2004-06-12,"Groundout",1
+"t3","0-0","2","---","2,(1-0) BX","R","SFG","Barry Bonds","Rodrigo Lopez","11%","57%","Home Run (Fly Ball)",2004-06-12,"Home Run",1
+"t6","1-4","1","---","5,(3-1) BCBBX","","SFG","Barry Bonds","Rodrigo Lopez","3%","15%","Single to RF (Ground Ball)",2004-06-12,"Single",1
+"t7","5-4","2","---","5,(2-2) .BSBFT","O","SFG","Barry Bonds","John Parrish","-1%","62%","Strikeout Swinging",2004-06-12,"Strikeout",1
+"t10","5-5","1","---","4,(1-2) BCFX","O","SFG","Barry Bonds","B.J. Ryan","-5%","39%","Foul Popfly: 3B (3B into Foul Terr.)",2004-06-12,"Foul Out",1
+"t11","8-5","2","12-","2,(0-1) .FX","R","SFG","Barry Bonds","Jorge Julio","2%","98%","Single to LF (Ground Ball); Mohr Scores; Cruz to 2B",2004-06-12,"Single",1
+"t2","0-0","0","---","1,(0-0) X","","SFG","Barry Bonds","Erik Bedard","-4%","46%","Reached on E4 (throw) (Ground Ball)",2004-06-12,"Reached on Error",1
+"t3","2-0","2","12-","5,(3-1) *BBBCB","","SFG","Barry Bonds","Erik Bedard","-2%","28%","Walk; Mohr to 3B; Feliz to 2B",2004-06-12,"Walk",1
+"t5","2-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Erik Bedard","-1%","26%","Intentional Walk",2004-06-12,"Walk",1
+"t7","3-2","1","--3","4,(3-0) IIII","","SFG","Barry Bonds","Mike DeJean","-2%","24%","Intentional Walk",2004-06-12,"Walk",1
+"t9","4-4","2","--3","4,(3-0) IIII","","SFG","Barry Bonds","B.J. Ryan","-2%","50%","Intentional Walk",2004-06-12,"Walk",1
+"t11","4-4","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","John Parrish","-1%","53%","Intentional Walk",2004-06-12,"Walk",1
+"t1","0-0","2","1--","3,(2-0) BBX","O","SFG","Barry Bonds","Sidney Ponson","-2%","45%","Flyball: LF (Deep LF)",2004-06-13,"Flyball",1
+"t3","0-1","2","--3","1,(0-0) X","RR","SFG","Barry Bonds","Sidney Ponson","19%","57%","Home Run (Fly Ball); Tucker Scores",2004-06-13,"Home Run",1
+"t5","2-2","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Sidney Ponson","2%","55%","Intentional Walk",2004-06-13,"Walk",1
+"t6","3-2","2","12-","1,(0-0) X","R","SFG","Barry Bonds","Sidney Ponson","13%","77%","Single to RF (Line Drive to CF-RF); Tucker Scores; Feliz to 3B",2004-06-13,"Single",1
+"t8","6-3","0","---","5,(2-2) BSFBX","O","SFG","Barry Bonds","Buddy Groom","-1%","91%","Groundout: 3B-1B",2004-06-13,"Groundout",1
+"b2","0-1","0","---","5,(3-1) BBBCB","","SFG","Barry Bonds","Miguel Batista","4%","48%","Walk",2004-06-15,"Walk",1
+"b4","1-1","0","--3","5,(3-1) BCBBB","","SFG","Barry Bonds","Miguel Batista","4%","71%","Walk",2004-06-15,"Walk",1
+"b6","2-1","1","---","1,(0-0) X","O","SFG","Barry Bonds","Miguel Batista","-2%","70%","Flyball: LF",2004-06-15,"Flyball",1
+"b8","4-3","0","---","6,(2-2) .CBBFFX","O","SFG","Barry Bonds","Jason Frasor","-1%","85%","Groundout: P-1B",2004-06-15,"Groundout",1
+"b1","1-0","1","--3","4,(3-0) IIII","","SFG","Barry Bonds","Pat Hentgen","2%","70%","Intentional Walk",2004-06-16,"Walk",1
+"b3","4-1","0","---","7,(3-2) CFBBBFX","","SFG","Barry Bonds","Pat Hentgen","3%","87%","Double to CF (Line Drive to Deep CF)",2004-06-16,"Double",1
+"b5","7-1","0","---","2,(1-0) BX","O","SFG","Barry Bonds","Bob File","0%","98%","Groundout: 2B-1B (Short RF)",2004-06-16,"Groundout",1
+"b6","10-1","1","---","1,(0-0) X","","SFG","Barry Bonds","Jason Kershner","0%","100%","Single to CF (Line Drive)",2004-06-16,"Single",1
+"b8","5-5","0","---","4,(3-0) .BBBI","","SFG","Barry Bonds","Justin Speier","6%","67%","Intentional Walk",2004-06-17,"Walk",1
+"b1","1-0","1","-2-","4,(3-0) III+2I","","SFG","Barry Bonds","Tim Wakefield","-2%","32%","Intentional Walk",2004-06-18,"Walk",1
+"b3","4-2","0","---","1,(0-0) X","O","SFG","Barry Bonds","Tim Wakefield","2%","25%","Groundout: 2B-1B (Short RF)",2004-06-18,"Groundout",1
+"b4","7-2","2","---","4,(3-0) BBBB","","SFG","Barry Bonds","Tim Wakefield","0%","6%","Walk",2004-06-18,"Walk",1
+"b7","7-9","0","---","1,(0-0) X","O","SFG","Barry Bonds","Mike Timlin","4%","82%","Groundout: 2B-1B (Short RF)",2004-06-18,"Groundout",1
+"b9","9-14","0","---","5,(2-2) ...BFBFC","O","SFG","Barry Bonds","Keith Foulke","1%","100%","Strikeout Looking",2004-06-18,"Strikeout",1
+"b1","2-0","0","-2-","7,(3-2) BFBCFBS","O","SFG","Barry Bonds","Pedro Martinez","-3%","74%","Strikeout Swinging",2004-06-19,"Strikeout",1
+"b3","4-0","0","---","3,(2-0) BBX","O","SFG","Barry Bonds","Pedro Martinez","-1%","88%","Flyball: CF",2004-06-19,"Flyball",1
+"b5","4-1","2","1--","2,(1-0) BX","O","SFG","Barry Bonds","Pedro Martinez","-1%","86%","Popfly: 2B",2004-06-19,"Popfly",1
+"b8","4-4","0","---","3,(2-0) ..BBX","O","SFG","Barry Bonds","Alan Embree","-5%","56%","Groundout: SS-1B",2004-06-19,"Groundout",1
+"b1","0-0","1","1-3","7,(3-2) BCFBFBX","O","SFG","Barry Bonds","Bronson Arroyo","-6%","55%","Popfly: 3B",2004-06-20,"Popfly",1
+"b3","0-0","1","---","5,(3-1) BBBCB","","SFG","Barry Bonds","Bronson Arroyo","3%","56%","Walk",2004-06-20,"Walk",1
+"b5","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Bronson Arroyo","1%","56%","Intentional Walk",2004-06-20,"Walk",1
+"b7","0-0","1","12-","2,(0-1) .CX","","SFG","Barry Bonds","Alan Embree","9%","74%","Single to LF (Fly Ball to Short LF); Tucker to 3B; Grissom to 2B",2004-06-20,"Single",1
+"b2","0-0","0","---","2,(1-0) BX","O","SFG","Barry Bonds","Odalis Perez","-2%","53%","Flyball: RF (Deep RF)",2004-06-21,"Flyball",1
+"b5","0-1","0","---","5,(2-2) BFBSX","","SFG","Barry Bonds","Odalis Perez","9%","51%","Double to LF (Line Drive to Deep LF-CF)",2004-06-21,"Double",1
+"b6","2-1","2","---","3,(1-1) CBX","O","SFG","Barry Bonds","Odalis Perez","-1%","69%","Groundout: SS-1B",2004-06-21,"Groundout",1
+"b8","2-1","2","--3","4,(3-0) IIII","","SFG","Barry Bonds","Odalis Perez","1%","86%","Intentional Walk",2004-06-21,"Walk",1
+"b1","1-0","2","---","6,(3-2) CBCBBB","","SFG","Barry Bonds","Kazuhisa Ishii","1%","62%","Walk",2004-06-22,"Walk",1
+"b3","1-0","2","---","5,(3-1) BBCBX","O","SFG","Barry Bonds","Kazuhisa Ishii","-1%","62%","Groundout: 2B-1B",2004-06-22,"Groundout",1
+"b5","3-2","0","12-","2,(1-0) BX","O","SFG","Barry Bonds","Kazuhisa Ishii","0%","79%","Groundout: 1B unassisted; Tucker to 3B; Grissom to 2B",2004-06-22,"Groundout",1
+"b7","5-5","1","1--","2,(0-1) CX","","SFG","Barry Bonds","Wilson Alvarez","14%","73%","Double to LF (Line Drive to LF Line); Grissom to 3B",2004-06-22,"Double",1
+"b8","8-5","2","-23","4,(3-0) IIII","","SFG","Barry Bonds","Tom Martin","0%","97%","Intentional Walk",2004-06-22,"Walk",1
+"b1","0-2","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Weaver","1%","35%","Intentional Walk",2004-06-23,"Walk",1
+"b3","3-2","0","---","7,(3-2) CBBFBFC","O","SFG","Barry Bonds","Jeff Weaver","-2%","65%","Strikeout Looking",2004-06-23,"Strikeout",1
+"b5","3-2","2","---","3,(1-1) BCX","O","SFG","Barry Bonds","Jeff Weaver","-1%","66%","Lineout: CF (Deep CF)",2004-06-23,"Lineout",1
+"b8","3-2","0","---","4,(3-0) .BBBB","","SFG","Barry Bonds","Guillermo Mota","2%","89%","Walk",2004-06-23,"Walk",1
+"b2","0-0","0","---","5,(3-1) SBBBB","","SFG","Barry Bonds","Hideo Nomo","4%","59%","Walk",2004-06-24,"Walk",1
+"b4","0-1","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Hideo Nomo","5%","48%","Walk",2004-06-24,"Walk",1
+"b5","3-1","2","1--","5,(2-2) F*BF*BX","","SFG","Barry Bonds","Hideo Nomo","1%","81%","Single to LF (Ground Ball); Durham to 2B",2004-06-24,"Single",1
+"b6","9-1","2","---","5,(2-2) BBCCS","O","SFG","Barry Bonds","Wilson Alvarez","0%","100%","Strikeout Swinging",2004-06-24,"Strikeout",1
+"t1","0-0","1","12-","5,(3-1) BBCBB","","SFG","Barry Bonds","Barry Zito","6%","59%","Walk; Durham to 3B; Grissom to 2B",2004-06-25,"Walk",1
+"t3","5-0","1","---","1,(0-0) X","O","SFG","Barry Bonds","Barry Zito","-1%","88%","Flyball: CF (Deep CF)",2004-06-25,"Flyball",1
+"t5","6-0","2","--3","4,(3-0) BBBB","","SFG","Barry Bonds","Barry Zito","0%","96%","Walk",2004-06-25,"Walk",1
+"t7","6-0","1","12-","6,(3-2) CSBB*BX","O","SFG","Barry Bonds","Barry Zito","0%","98%","Flyball: LF",2004-06-25,"Flyball",1
+"t1","0-0","1","12-","2,(0-1) CX","O","SFG","Barry Bonds","Rich Harden","4%","51%","Flyball: LF (LF-CF)",2004-06-26,"Flyball",1
+"t3","2-2","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Justin Duchscherer","-2%","46%","Intentional Walk",2004-06-26,"Walk",1
+"t5","2-3","1","---","2,(1-0) BX","O","SFG","Barry Bonds","Justin Duchscherer","2%","69%","Groundout: SS-1B",2004-06-26,"Groundout",1
+"t7","3-3","0","---","2,(0-1) CX","O","SFG","Barry Bonds","Justin Lehr","4%","54%","Popfly: 2B (CF-RF)",2004-06-26,"Popfly",1
+"t9","3-7","0","---","5,(3-1) BBBCB","","SFG","Barry Bonds","Octavio Dotel","-2%","96%","Walk",2004-06-26,"Walk",1
+"t10","7-7","0","---","6,(2-2) BSTFBX","","SFG","Barry Bonds","Octavio Dotel","-8%","42%","Single to RF (Ground Ball)",2004-06-26,"Single",1
+"t1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Mark Redman","1%","49%","Intentional Walk",2004-06-27,"Walk",1
+"t4","0-1","0","---","2,(0-1) TX","R","SFG","Barry Bonds","Mark Redman","12%","50%","Home Run (Fly Ball)",2004-06-27,"Home Run",1
+"t5","3-1","2","---","6,(3-2) BBCSBB","","SFG","Barry Bonds","Mark Redman","1%","72%","Walk",2004-06-27,"Walk",1
+"t8","4-2","0","---","5,(3-1) .BBCBX","O","SFG","Barry Bonds","Ricardo Rincon","-1%","84%","Flyball: CF",2004-06-27,"Flyball",1
+"t1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Weaver","-1%","51%","Intentional Walk",2004-06-29,"Walk",1
+"t3","1-0","2","1--","6,(3-2) CBFBBB","","SFG","Barry Bonds","Jeff Weaver","-2%","39%","Walk; Snow to 2B",2004-06-29,"Walk",1
+"t5","1-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Weaver","-1%","36%","Intentional Walk",2004-06-29,"Walk",1
+"t7","1-1","1","12-","4,(3-0) BBBB","","SFG","Barry Bonds","Guillermo Mota","-10%","34%","Walk; Snow to 3B; Grissom to 2B",2004-06-29,"Walk",1
+"t1","1-0","2","---","5,(2-2) BCSBH","","SFG","Barry Bonds","Hideo Nomo","1%","58%","Hit By Pitch",2004-06-30,"HBP",1
+"t3","1-0","1","12-","1,(0-0) X","RRR","SFG","Barry Bonds","Hideo Nomo","20%","86%","Home Run (Fly Ball to LF-CF); Durham Scores; Snow Scores",2004-06-30,"Home Run",1
+"t5","5-0","1","---","8,(3-2) FCFFBBBB","","SFG","Barry Bonds","Hideo Nomo","1%","94%","Walk",2004-06-30,"Walk",1
+"t7","7-0","0","---","5,(3-1) ..CBBBX","O","SFG","Barry Bonds","Duaner Sanchez","0%","99%","Groundout: SS-1B",2004-06-30,"Groundout",1
+"t9","7-0","2","---","5,(2-2) FBBCX","O","SFG","Barry Bonds","Tom Martin","0%","100%","Groundout: 1B unassisted",2004-06-30,"Groundout",1
+"t2","0-0","0","---","6,(1-2) CBSFFX","O","SFG","Barry Bonds","Jose Lima","2%","52%","Groundout: 1B unassisted",2004-07-01,"Groundout",1
+"t4","1-1","1","1--","4,(3-0) IIII","","SFG","Barry Bonds","Jose Lima","-4%","45%","Intentional Walk; Grissom to 2B",2004-07-01,"Walk",1
+"t7","2-2","0","---","4,(3-0) BBBX","R","SFG","Barry Bonds","Jose Lima","-20%","30%","Home Run (Fly Ball)",2004-07-01,"Home Run",1
+"t8","4-4","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Guillermo Mota","-3%","56%","Intentional Walk",2004-07-01,"Walk",1
+"b1","1-3","2","---","5,(2-2) CCBBX","O","SFG","Barry Bonds","Mark Redman","-1%","30%","Groundout: 1B-P",2004-07-02,"Groundout",1
+"b4","3-3","0","---","7,(3-2) CFBBFBX","R","SFG","Barry Bonds","Mark Redman","12%","68%","Home Run (Line Drive to LF-CF)",2004-07-02,"Home Run",1
+"b5","4-3","2","1--","5,(3-1) BCBB1I","","SFG","Barry Bonds","Mark Redman","2%","70%","Intentional Walk; Grissom to 2B",2004-07-02,"Walk",1
+"b7","7-3","1","---","5,(2-2) CFBBX","O","SFG","Barry Bonds","Ricardo Rincon","0%","96%","Lineout: CF (Deep CF)",2004-07-02,"Lineout",1
+"b2","0-0","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Rich Harden","-4%","41%","Walk",2004-07-03,"Walk",1
+"b4","1-0","1","---","1,(0-0) X","O","SFG","Barry Bonds","Rich Harden","2%","35%","Flyball: RF (CF-RF)",2004-07-03,"Flyball",1
+"b6","2-1","2","1--","4,(3-0) IIII","","SFG","Barry Bonds","Rich Harden","-2%","27%","Intentional Walk; Snow to 2B",2004-07-03,"Walk",1
+"b9","2-6","0","---","3,(1-1) ..BCX","","SFG","Barry Bonds","Octavio Dotel","-2%","96%","Single to CF (Ground Ball)",2004-07-03,"Single",1
+"b2","0-1","0","---","4,(2-1) FBBH","","SFG","Barry Bonds","Mark Mulder","-4%","52%","Hit By Pitch",2004-07-04,"HBP",1
+"b4","0-5","1","1-3","2,(0-1) SX","RO","SFG","Barry Bonds","Mark Mulder","1%","88%","Flyball: RF/Sacrifice Fly (CF-RF); Durham Scores",2004-07-04,"Flyball",1
+"b6","3-8","0","---","6,(3-2) BCBFBB","","SFG","Barry Bonds","Mark Mulder","-2%","92%","Walk",2004-07-04,"Walk",1
+"b8","3-8","0","1--","5,(3-1) CBBBB","","SFG","Barry Bonds","Chad Bradford","-3%","93%","Walk; Grissom to 2B",2004-07-04,"Walk",1
+"b9","6-9","2","1--","5,(2-2) BBFFS","O","SFG","Barry Bonds","Octavio Dotel","2%","100%","Strikeout Swinging",2004-07-04,"Strikeout",1
+"b1","1-0","1","1--","4,(1-2) CBFC","O","SFG","Barry Bonds","Denny Stark","2%","38%","Strikeout Looking",2004-07-06,"Strikeout",1
+"b3","2-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Denny Stark","-1%","24%","Intentional Walk",2004-07-06,"Walk",1
+"b4","6-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Denny Stark","0%","6%","Intentional Walk",2004-07-06,"Walk",1
+"b6","6-1","2","1--","1,(0-0) X","O","SFG","Barry Bonds","Denny Stark","0%","3%","Popfly: 3B",2004-07-06,"Popfly",1
+"b9","6-8","1","---","8,(3-2) CBBFBFFB","","SFG","Barry Bonds","Shawn Chacon","-6%","89%","Walk",2004-07-06,"Walk",1
+"b2","0-1","0","---","1,(0-0) X","R","SFG","Barry Bonds","Adam Bernero","11%","55%","Home Run (Fly Ball)",2004-07-07,"Home Run",1
+"b3","1-1","2","12-","4,(3-0) BBBI","","SFG","Barry Bonds","Adam Bernero","3%","58%","Intentional Walk; Rueter to 3B; Cruz to 2B",2004-07-07,"Walk",1
+"b5","4-1","1","---","3,(1-1) CBX","O","SFG","Barry Bonds","Adam Bernero","-1%","87%","Groundout: 1B unassisted",2004-07-07,"Groundout",1
+"b7","5-3","0","1--","5,(2-2) SBBCX","","SFG","Barry Bonds","Javier Lopez","4%","94%","Single to CF (Line Drive); Snow to 3B",2004-07-07,"Single",1
+"b8","8-4","2","--3","4,(3-0) IIII","","SFG","Barry Bonds","Steve Reed","0%","99%","Intentional Walk",2004-07-07,"Walk",1
+"b1","0-0","2","1--","5,(2-2) CBFBC","O","SFG","Barry Bonds","Elmer Dessens","2%","50%","Strikeout Looking",2004-07-08,"Strikeout",1
+"b4","0-3","0","---","3,(1-1) FBX","","SFG","Barry Bonds","Elmer Dessens","-4%","74%","Single to CF (Line Drive)",2004-07-08,"Single",1
+"b5","3-4","2","---","2,(0-1) CX","O","SFG","Barry Bonds","Andrew Good","2%","66%","Flyball: RF",2004-07-08,"Flyball",1
+"b8","3-8","0","---","2,(0-1) CX","","SFG","Barry Bonds","Andrew Good","-2%","96%","Double to RF (Line Drive to RF Line)",2004-07-08,"Double",1
+"b9","4-8","2","---","4,(2-1) BBCX","","SFG","Barry Bonds","Mike Koplove","0%","99%","Single to RF (Ground Ball thru CF-RF)",2004-07-08,"Single",1
+"b1","1-0","1","-2-","4,(1-2) CFBX","R","SFG","Barry Bonds","Randy Johnson","7%","73%","Single to CF (Line Drive); Perez Scores",2004-07-09,"Single",1
+"b3","2-2","2","---","3,(2-0) BBX","O","SFG","Barry Bonds","Randy Johnson","-1%","50%","Lineout: 3B",2004-07-09,"Lineout",1
+"b5","3-3","2","12-","4,(3-0) IIII","","SFG","Barry Bonds","Randy Johnson","4%","59%","Intentional Walk; Durham to 3B; Perez to 2B",2004-07-09,"Walk",1
+"b7","7-3","1","---","5,(3-1) CBBBB","","SFG","Barry Bonds","Greg Aquino","0%","97%","Walk",2004-07-09,"Walk",1
+"b1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brandon Webb","1%","54%","Intentional Walk",2004-07-10,"Walk",1
+"b3","0-0","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brandon Webb","2%","60%","Intentional Walk",2004-07-10,"Walk",1
+"b5","2-0","2","---","1,(0-0) X","","SFG","Barry Bonds","Brandon Webb","1%","79%","Single to LF (Line Drive)",2004-07-10,"Single",1
+"b7","2-0","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brandon Webb","1%","90%","Intentional Walk",2004-07-10,"Walk",1
+"t1","0-0","2","1--","8,(3-2) CBFFBFBX","","SFG","Barry Bonds","Jason Jennings","3%","50%","Single to CF (Ground Ball); Snow to 3B",2004-07-15,"Single",1
+"t3","1-2","0","1--","6,(3-2) BCFBB>S","O","SFG","Barry Bonds","Jason Jennings","-2%","41%","Strikeout Swinging, Snow Steals 2B",2004-07-15,"Strikeout",1
+"t4","3-2","1","-23","4,(3-0) IIII","","SFG","Barry Bonds","Jason Jennings","1%","71%","Intentional Walk",2004-07-15,"Walk",1
+"t6","3-4","2","1-3","4,(3-0) IIII","","SFG","Barry Bonds","Javier Lopez","4%","39%","Intentional Walk; Snow to 2B",2004-07-15,"Walk",1
+"t8","3-4","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Tim Harikkala","2%","25%","Intentional Walk",2004-07-15,"Walk",1
+"t9","7-4","2","-2-","6,(3-2) BBFFB.S","O","SFG","Barry Bonds","Shawn Chacon","-1%","95%","Strikeout Swinging",2004-07-15,"Strikeout",1
+"t2","0-2","0","---","2,(1-0) BX","","SFG","Barry Bonds","Shawn Estes","-4%","65%","Single to CF (Line Drive)",2004-07-16,"Single",1
+"t4","1-2","0","-2-","5,(3-1) BBCBX","O","SFG","Barry Bonds","Shawn Estes","2%","56%","Groundout: 1B-P; Feliz to 3B",2004-07-16,"Groundout",1
+"t6","1-5","1","1--","1,(0-0) X","O","SFG","Barry Bonds","Shawn Estes","2%","92%","Groundout: 2B-1B (Short RF); Feliz to 2B",2004-07-16,"Groundout",1
+"t8","1-7","1","-2-","6,(3-2) BBFBFX","O","SFG","Barry Bonds","Shawn Estes","1%","99%","Groundout: SS-1B; Feliz to 3B",2004-07-16,"Groundout",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Aaron Cook","-2%","48%","Groundout: 2B-1B",2004-07-17,"Groundout",1
+"t4","1-0","1","--3","4,(3-0) IIII","","SFG","Barry Bonds","Aaron Cook","2%","68%","Intentional Walk",2004-07-17,"Walk",1
+"t6","2-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Aaron Cook","1%","75%","Intentional Walk",2004-07-17,"Walk",1
+"t8","2-0","1","12-","5,(3-1) BBBFX","RR","SFG","Barry Bonds","Javier Lopez","9%","96%","Double to RF (Line Drive to Deep RF); Tucker Scores; Snow Scores",2004-07-17,"Double",1
+"t1","1-0","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Adam Bernero","-2%","38%","Intentional Walk",2004-07-18,"Walk",1
+"t3","3-1","0","12-","3,(1-1) FBX","","SFG","Barry Bonds","Adam Bernero","-5%","18%","Single to RF (Line Drive); Tucker to 3B; Snow to 2B",2004-07-18,"Single",1
+"t5","5-3","1","---","2,(0-1) FX","","SFG","Barry Bonds","Jeff Fassero","-2%","27%","Single to CF (Ground Ball)",2004-07-18,"Single",1
+"t7","5-5","1","1--","9,(3-2) BBSFB>F>FF>X","O","SFG","Barry Bonds","Jeff Fassero","3%","53%","Groundout: 1B-P; Snow to 2B",2004-07-18,"Groundout",1
+"t9","8-6","1","---","3,(1-1) CBX","R","SFG","Barry Bonds","Tim Harikkala","-5%","5%","Home Run (Fly Ball to CF-RF)",2004-07-18,"Home Run",1
+"t1","0-0","1","-23","4,(2-1) BBFX","RO","SFG","Barry Bonds","Randy Johnson","0%","58%","Groundout: 2B-1B; Perez Scores; Feliz to 3B",2004-07-20,"Groundout",1
+"t3","3-0","1","---","2,(0-1) CX","O","SFG","Barry Bonds","Randy Johnson","-1%","76%","Popfly: 3B (Short LF)",2004-07-20,"Popfly",1
+"t5","3-0","2","1--","2,(0-1) SX","O","SFG","Barry Bonds","Randy Johnson","-1%","80%","Flyball: CF (Deep CF-RF)",2004-07-20,"Flyball",1
+"t8","3-0","1","---","2,(1-0) BX","","SFG","Barry Bonds","Mike Fetters","1%","93%","Double to LF (Fly Ball to Deep LF-CF)",2004-07-20,"Double",1
+"b2","0-3","0","---","2,(1-0) BX","O","SFG","Barry Bonds","Jake Peavy","2%","77%","Foul Popfly: C (Behind Home)",2004-07-21,"Foul Out",1
+"b4","1-4","1","---","1,(0-0) X","O","SFG","Barry Bonds","Jake Peavy","2%","82%","Lineout: RF (Deep RF)",2004-07-21,"Lineout",1
+"b7","1-5","0","---","3,(2-0) ..BBX","O","SFG","Barry Bonds","Jake Peavy","2%","95%","Popfly: 3B",2004-07-21,"Popfly",1
+"b9","1-7","1","---","1,(0-0) X","O","SFG","Barry Bonds","Blaine Neal","0%","100%","Groundout: 3B-1B",2004-07-21,"Groundout",1
+"b2","0-0","0","---","5,(3-1) BCBBX","","SFG","Barry Bonds","David Wells","-6%","39%","Double to CF (Fly Ball to Deep RF)",2004-07-22,"Double",1
+"b3","2-6","2","1--","2,(1-0) *BX","O","SFG","Barry Bonds","David Wells","2%","87%","Groundout: 1B unassisted",2004-07-22,"Groundout",1
+"b5","2-7","2","1--","7,(2-2) BB+1CFFFX","","SFG","Barry Bonds","David Wells","-1%","93%","Single to RF (Ground Ball); Grissom to 2B",2004-07-22,"Single",1
+"b6","4-8","2","12-","4,(3-0) BBBI","","SFG","Barry Bonds","Blaine Neal","-3%","87%","Intentional Walk; Cruz to 3B; Grissom to 2B",2004-07-22,"Walk",1
+"b8","4-8","2","1--","5,(3-1) CBBBB","","SFG","Barry Bonds","Rod Beck","-1%","96%","Walk; Durham to 2B",2004-07-22,"Walk",1
+"t1","0-0","2","1--","2,(0-1) CX","O","SFG","Barry Bonds","Jeff Suppan","-2%","45%","Groundout: 1B unassisted",2004-07-23,"Groundout",1
+"t4","0-0","0","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Jeff Suppan","7%","61%","Walk; Snow to 2B",2004-07-23,"Walk",1
+"t5","3-0","1","1--","4,(2-1) BBFX","OO","SFG","Barry Bonds","Jeff Suppan","-3%","81%","Ground Ball Double Play: 1B-SS",2004-07-23,"Groundout",1
+"t7","3-0","2","1-3","5,(3-1) BBCBX","RRR","SFG","Barry Bonds","Jeff Suppan","9%","98%","Home Run (Fly Ball); Tucker Scores; Snow Scores",2004-07-23,"Home Run",1
+"t9","7-2","2","---","3,(2-0) BBX","O","SFG","Barry Bonds","Ray King","0%","99%","Groundout: 1B unassisted",2004-07-23,"Groundout",1
+"t1","0-0","2","-2-","4,(2-1) BBCX","O","SFG","Barry Bonds","Chris Carpenter","-3%","45%","Groundout: 2B-1B",2004-07-24,"Groundout",1
+"t4","1-1","0","---","6,(3-2) CBFBBX","O","SFG","Barry Bonds","Chris Carpenter","-3%","47%","Groundout: P-1B",2004-07-24,"Groundout",1
+"t6","1-1","2","---","4,(2-1) BBCX","","SFG","Barry Bonds","Chris Carpenter","2%","46%","Single to CF (Line Drive)",2004-07-24,"Single",1
+"t8","2-2","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Chris Carpenter","1%","48%","Intentional Walk",2004-07-24,"Walk",1
+"t10","5-3","0","---","9,(3-2) CFBFFBFBX","O","SFG","Barry Bonds","Ray King","-1%","92%","Foul Popfly: 3B (3B into Foul Terr.)",2004-07-24,"Foul Out",1
+"t2","0-0","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jake Peavy","-4%","46%","Walk",2004-07-26,"Walk",1
+"t4","0-0","1","---","6,(3-2) CBFBBB","","SFG","Barry Bonds","Jake Peavy","-3%","50%","Walk",2004-07-26,"Walk",1
+"t6","0-2","1","-23","4,(3-0) IIII","","SFG","Barry Bonds","Jake Peavy","-3%","64%","Intentional Walk",2004-07-26,"Walk",1
+"t8","2-3","0","---","6,(3-2) ..BFBBCB","","SFG","Barry Bonds","Akinori Otsuka","-9%","67%","Walk",2004-07-26,"Walk",1
+"t1","0-0","1","1-3","2,(1-0) BX","RR","SFG","Barry Bonds","David Wells","14%","71%","Double to LF (Fly Ball to Deep LF); Durham Scores; Cruz Scores",2004-07-27,"Double",1
+"t3","4-1","0","---","4,(1-2) BCSX","O","SFG","Barry Bonds","David Wells","-1%","80%","Groundout: 3B-1B",2004-07-27,"Groundout",1
+"t5","4-2","1","---","6,(3-2) BCBBCX","O","SFG","Barry Bonds","David Wells","-1%","74%","Groundout: 1B unassisted",2004-07-27,"Groundout",1
+"t7","6-3","2","---","2,(1-0) BX","O","SFG","Barry Bonds","Blaine Neal","0%","89%","Flyball: CF (Deep CF)",2004-07-27,"Flyball",1
+"t2","0-0","0","---","5,(3-1) BBBCB","","SFG","Barry Bonds","Brian Lawrence","-4%","46%","Walk",2004-07-28,"Walk",1
+"t4","0-2","2","---","3,(1-1) FBX","O","SFG","Barry Bonds","Brian Lawrence","1%","80%","Lineout: 3B",2004-07-28,"Lineout",1
+"t7","1-8","0","---","2,(1-0) ...BX","O","SFG","Barry Bonds","Ricky Stone","0%","100%","Flyball: LF (Short LF)",2004-07-28,"Flyball",1
+"t1","1-0","1","1--","5,(3-1) B*BC*B>X","O","SFG","Barry Bonds","Ismael Valdez","2%","41%","Groundout: 1B unassisted; Tucker to 2B",2004-07-29,"Groundout",1
+"t4","1-1","0","1--","2,(1-0) BX","RR","SFG","Barry Bonds","Ismael Valdez","-20%","26%","Home Run (Fly Ball); Feliz Scores",2004-07-29,"Home Run",1
+"t6","3-4","1","---","3,(1-1) BCX","","SFG","Barry Bonds","Ismael Valdez","-7%","64%","Double to RF (Line Drive to Deep RF Line)",2004-07-29,"Double",1
+"t9","4-7","0","---","3,(1-1) .FBX","O","SFG","Barry Bonds","Trevor Hoffman","2%","99%","Popfly: 1B",2004-07-29,"Popfly",1
+"b1","1-0","1","--3","2,(1-0) B.X","RR","SFG","Barry Bonds","Chris Carpenter","-11%","21%","Home Run (Fly Ball); Snow Scores",2004-07-30,"Home Run",1
+"b3","3-0","2","1--","5,(2-2) BFCBX","O","SFG","Barry Bonds","Chris Carpenter","1%","19%","Flyball: LF",2004-07-30,"Flyball",1
+"b5","3-0","2","---","7,(3-2) CBFFBBX","O","SFG","Barry Bonds","Chris Carpenter","1%","14%","Groundout: 1B-P",2004-07-30,"Groundout",1
+"b8","4-7","0","---","1,(0-0) H","","SFG","Barry Bonds","Ray King","-5%","86%","Hit By Pitch",2004-07-30,"HBP",1
+"b1","2-0","0","-2-","5,(1-2) BFSFX","O","SFG","Barry Bonds","Matt Morris","-1%","77%","Groundout: 2B-1B; Snow to 3B",2004-07-31,"Groundout",1
+"b2","8-0","0","---","6,(3-2) CSBBBB","","SFG","Barry Bonds","Dan Haren","0%","98%","Walk",2004-07-31,"Walk",1
+"b4","8-1","0","1--","2,(1-0) *BX","O","SFG","Barry Bonds","Dan Haren","0%","98%","Groundout: 2B-SS/Forceout at 2B",2004-07-31,"Groundout",1
+"b7","8-5","0","---","5,(2-2) BCBFC","O","SFG","Barry Bonds","Steve Kline","-1%","93%","Strikeout Looking",2004-07-31,"Strikeout",1
+"b1","0-2","1","12-","1,(0-0) X","O","SFG","Barry Bonds","Woody Williams","5%","65%","Flyball: LF (Deep LF)",2004-08-01,"Flyball",1
+"b3","1-2","0","---","1,(0-0) X","O","SFG","Barry Bonds","Woody Williams","3%","59%","Popfly: SS",2004-08-01,"Popfly",1
+"b5","1-2","2","---","11,(3-2) BFFFBBFFFFX","O","SFG","Barry Bonds","Woody Williams","2%","66%","Flyball: RF (Deep RF)",2004-08-01,"Flyball",1
+"b8","1-4","2","---","6,(1-2) CFBFFX","O","SFG","Barry Bonds","Ray King","1%","96%","Groundout: 1B-P",2004-08-01,"Groundout",1
+"b1","0-0","1","1-3","4,(1-2) CF*BX","RO","SFG","Barry Bonds","Cory Lidle","2%","63%","Groundout: P-3B-1B; Durham Scores; Ledee to 2B",2004-08-03,"Groundout",1
+"b3","1-0","2","1-3","1,(0-0) X","RRR","SFG","Barry Bonds","Cory Lidle","21%","88%","Home Run (Fly Ball); Ledee Scores/unER; Snow Scores/unER; Bonds Scores/unER",2004-08-03,"Home Run",1
+"b5","5-0","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Cory Lidle","0%","96%","Intentional Walk",2004-08-03,"Walk",1
+"b7","6-0","0","---","5,(2-2) CBBFX","R","SFG","Barry Bonds","Cory Lidle","0%","100%","Home Run (Line Drive to CF-RF)",2004-08-03,"Home Run",1
+"b1","0-0","2","1--","5,(3-1) BBBFX","","SFG","Barry Bonds","Jose Acevedo","-2%","46%","Single to RF (Ground Ball); Durham to 2B",2004-08-04,"Single",1
+"b4","0-4","0","---","1,(0-0) X","O","SFG","Barry Bonds","Jose Acevedo","2%","87%","Groundout: 2B-1B (Short RF)",2004-08-04,"Groundout",1
+"b5","2-5","2","1--","5,(3-1) BCBBB","","SFG","Barry Bonds","Jose Acevedo","-2%","81%","Walk; Snow to 2B",2004-08-04,"Walk",1
+"b6","6-7","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Phil Norton","-2%","61%","Intentional Walk",2004-08-04,"Walk",1
+"b8","7-8","2","1--","2,(0-1) CX","O","SFG","Barry Bonds","Gabe White","7%","83%","Groundout: 2B-1B (Short RF)",2004-08-04,"Groundout",1
+"b2","0-0","0","---","7,(3-2) BFBSFBB","","SFG","Barry Bonds","Matt Clement","4%","59%","Walk",2004-08-06,"Walk",1
+"b4","3-1","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Matt Clement","2%","81%","Walk",2004-08-06,"Walk",1
+"b5","4-2","1","1--","3,(1-1) CBX","O","SFG","Barry Bonds","Matt Clement","-2%","79%","Popfly: 2B",2004-08-06,"Popfly",1
+"b7","6-2","0","12-","1,(0-0) .X","O","SFG","Barry Bonds","Kent Mercker","0%","98%","Single to RF (Line Drive); Perez to 3B; Feliz out at 3B/RF-1B-SS; Bonds to 2B/Adv on throw",2004-08-06,"Single",1
+"b1","0-0","1","1-3","2,(1-0) BX","RO","SFG","Barry Bonds","Greg Maddux","-1%","38%","Flyball: CF/Sacrifice Fly (Deep CF); Durham Scores",2004-08-07,"Flyball",1
+"b3","1-0","1","1--","5,(3-1) BBCBB","","SFG","Barry Bonds","Greg Maddux","-3%","30%","Walk; Snow to 2B",2004-08-07,"Walk",1
+"b5","3-4","2","---","1,(0-0) X","O","SFG","Barry Bonds","Greg Maddux","2%","66%","Flyball: RF (Deep RF)",2004-08-07,"Flyball",1
+"b7","4-6","1","-2-","5,(2-2) FBFBX","O","SFG","Barry Bonds","Mike Remlinger","6%","80%","Flyball: CF (Deep CF); Mohr to 3B",2004-08-07,"Flyball",1
+"b9","4-8","1","---","8,(2-2) CBFFBFFX","","SFG","Barry Bonds","LaTroy Hawkins","-1%","98%","Ground-rule Double/Fan Interference (Ground Ball); Bonds to 2B",2004-08-07,"Double",1
+"b1","0-0","2","-2-","5,(3-1) B.BCBB","","SFG","Barry Bonds","Kerry Wood","1%","54%","Walk",2004-08-08,"Walk",1
+"b3","2-2","1","---","4,(1-2) BCFX","","SFG","Barry Bonds","Kerry Wood","3%","56%","Single to LF (Line Drive to LF-CF)",2004-08-08,"Single",1
+"b5","3-2","0","---","5,(3-1) BBCBB","","SFG","Barry Bonds","Kerry Wood","3%","74%","Walk",2004-08-08,"Walk",1
+"b7","3-2","0","1--","2,(0-1) .C>X","O","SFG","Barry Bonds","Kent Mercker","2%","84%","Groundout: 2B-1B; Feliz to 3B",2004-08-08,"Groundout",1
+"b8","6-3","2","12-","5,(1-2) *BCCFX","O","SFG","Barry Bonds","Mike Remlinger","-1%","96%","Popfly: 3B",2004-08-08,"Popfly",1
+"t1","0-0","2","-2-","5,(3-1) BBSBB","","SFG","Barry Bonds","Josh Fogg","-1%","51%","Walk",2004-08-10,"Walk",1
+"t3","1-0","0","1--","7,(3-2) CBBFB>F>B","","SFG","Barry Bonds","Josh Fogg","-5%","30%","Walk; Alfonzo to 2B",2004-08-10,"Walk",1
+"t4","3-1","2","1-3","5,(3-1) CBB*BX","O","SFG","Barry Bonds","Josh Fogg","4%","31%","Flyball: RF (Deep RF)",2004-08-10,"Flyball",1
+"t7","3-4","0","---","7,(3-2) .CCFB*BBX","R","SFG","Barry Bonds","John Grabow","-19%","50%","Home Run (Fly Ball to CF-RF)",2004-08-10,"Home Run",1
+"t8","6-4","2","---","4,(1-2) CBSC","O","SFG","Barry Bonds","David Williams","1%","17%","Strikeout Looking",2004-08-10,"Strikeout",1
+"t1","0-0","0","123","6,(3-2) SSBBBB","R","SFG","Barry Bonds","Sean Burnett","-8%","26%","Walk; Durham Scores; Mohr to 3B; Feliz to 2B",2004-08-11,"Walk",1
+"t3","3-3","1","--3","5,(3-1) BFBBI","","SFG","Barry Bonds","Sean Burnett","-2%","43%","Intentional Walk",2004-08-11,"Walk",1
+"t5","4-6","1","---","1,(0-0) X","O","SFG","Barry Bonds","Sean Burnett","2%","80%","Foul Popfly: 3B (3B into Foul Terr.)",2004-08-11,"Foul Out",1
+"t7","4-6","2","---","4,(2-1) BBFX","O","SFG","Barry Bonds","Mike Gonzalez","1%","89%","Groundout: 1B unassisted",2004-08-11,"Groundout",1
+"t10","6-6","0","---","4,(3-0) BBII","","SFG","Barry Bonds","Jose Mesa","-8%","42%","Intentional Walk",2004-08-11,"Walk",1
+"t1","0-0","2","-2-","1,(0-0) X","R","SFG","Barry Bonds","Ryan Vogelsong","10%","58%","Double to CF (Fly Ball to Deep CF); Snow Scores",2004-08-12,"Double",1
+"t3","1-0","1","1--","5,(3-1) BBBCB","","SFG","Barry Bonds","Ryan Vogelsong","3%","65%","Walk; Snow to 2B",2004-08-12,"Walk",1
+"t4","3-0","2","12-","2,(1-0) *BX","O","SFG","Barry Bonds","Ryan Vogelsong","-3%","78%","Lineout: CF",2004-08-12,"Lineout",1
+"t7","3-0","0","12-","6,(3-2) CBBBFB","","SFG","Barry Bonds","David Williams","2%","95%","Walk; Snow to 3B; Alfonzo to 2B",2004-08-12,"Walk",1
+"t1","2-0","1","---","5,(3-1) BCBBB","","SFG","Barry Bonds","Brett Myers","2%","68%","Walk",2004-08-13,"Walk",1
+"t3","2-5","1","-23","4,(3-0) IIII","","SFG","Barry Bonds","Brett Myers","2%","31%","Intentional Walk",2004-08-13,"Walk",1
+"t4","6-5","2","-23","5,(3-1) FB.III","","SFG","Barry Bonds","Brian Powell","1%","64%","Intentional Walk",2004-08-13,"Walk",1
+"t5","13-5","2","-2-","2,(0-1) CX","R","SFG","Barry Bonds","Amaury Telemaco","1%","99%","Single to RF (Line Drive to Deep RF Line); Feliz Scores",2004-08-13,"Single",1
+"t7","15-5","1","---","2,(1-0) BX","R","SFG","Barry Bonds","Amaury Telemaco","0%","100%","Home Run (Line Drive)",2004-08-13,"Home Run",1
+"t8","7-6","1","---","4,(3-0) .IIII","","SFG","Barry Bonds","Felix Rodriguez","3%","74%","Intentional Walk",2004-08-14,"Walk",1
+"t1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Vicente Padilla","1%","49%","Intentional Walk",2004-08-15,"Walk",1
+"t4","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Vicente Padilla","-3%","47%","Flyball: CF (Deep CF)",2004-08-15,"Flyball",1
+"t7","0-1","0","---","6,(3-2) BCBFBB","","SFG","Barry Bonds","Vicente Padilla","7%","38%","Walk",2004-08-15,"Walk",1
+"t9","2-1","0","---","7,(2-2) SCBFBFX","O","SFG","Barry Bonds","Rheal Cormier","-2%","81%","Groundout: 2B-1B (Short RF)",2004-08-15,"Groundout",1
+"b1","0-2","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","John Patterson","1%","35%","Intentional Walk",2004-08-16,"Walk",1
+"b4","0-3","0","1--","3,(0-2) CFC","O","SFG","Barry Bonds","John Patterson","-4%","22%","Strikeout Looking",2004-08-16,"Strikeout",1
+"b5","4-4","0","---","5,(3-1) BBCBB","","SFG","Barry Bonds","Francis Beltran","5%","61%","Walk",2004-08-16,"Walk",1
+"b7","5-4","0","---","6,(3-2) .BBCFBX","O","SFG","Barry Bonds","Joe Horgan","-2%","77%","Popfly: 3B",2004-08-16,"Popfly",1
+"b8","7-5","2","12-","4,(3-0) BBBB","","SFG","Barry Bonds","Chad Cordero","1%","94%","Walk; Durham to 3B; Snow to 2B",2004-08-16,"Walk",1
+"b2","0-1","0","---","1,(0-0) X","R","SFG","Barry Bonds","Sun-Woo Kim","11%","55%","Home Run (Line Drive)",2004-08-17,"Home Run",1
+"b4","1-1","1","1--","7,(1-2) CBCFFFX","RR","SFG","Barry Bonds","Sun-Woo Kim","21%","77%","Home Run (Fly Ball); Alfonzo Scores",2004-08-17,"Home Run",1
+"b5","3-1","2","1-3","6,(3-2) BC+2F>B.II","","SFG","Barry Bonds","Sun-Woo Kim","1%","82%","Intentional Walk; Alfonzo to 2B",2004-08-17,"Walk",1
+"b7","4-2","2","---","6,(3-2) BCBBCX","O","SFG","Barry Bonds","Joey Eischen","-1%","86%","Flyball: CF (Deep CF)",2004-08-17,"Flyball",1
+"b8","2-3","1","12-","2,(1-0) .BX","OO","SFG","Barry Bonds","Luis Ayala","24%","83%","Double Play: Foul Popfly: 3B (3B into Foul Terr.); Mohr out at 2B/3B-2B",2004-08-18,"Double",1
+"b1","0-1","1","-23","4,(3-0) IIII","","SFG","Barry Bonds","T.J. Tucker","1%","55%","Intentional Walk",2004-08-18,"Walk",1
+"b3","2-1","1","1--","5,(3-1) IBBCB","","SFG","Barry Bonds","T.J. Tucker","3%","70%","Walk; Feliz to 2B",2004-08-18,"Walk",1
+"b4","8-1","0","---","4,(2-1) ..BBCX","","SFG","Barry Bonds","Claudio Vargas","0%","98%","Single to CF (Ground Ball)",2004-08-18,"Single",1
+"b5","10-1","2","---","1,(0-0) X","R","SFG","Barry Bonds","Francis Beltran","0%","100%","Home Run (Fly Ball to CF-RF)",2004-08-18,"Home Run",1
+"b1","2-0","1","---","2,(0-1) CX","","SFG","Barry Bonds","Steve Trachsel","2%","73%","Single to RF (Line Drive)",2004-08-20,"Single",1
+"b2","5-0","2","1--","6,(3-2) BBCC*B>X","R","SFG","Barry Bonds","Steve Trachsel","3%","94%","Single to CF (Line Drive); Alfonzo Scores/Adv on E8/No RBI/unER; Bonds to 2B",2004-08-20,"Single",1
+"b4","6-0","2","---","4,(2-1) BBCX","","SFG","Barry Bonds","Steve Trachsel","0%","97%","Double to CF (Line Drive to Deep CF-RF)",2004-08-20,"Double",1
+"b6","7-0","2","1--","3,(1-1) BFX","O","SFG","Barry Bonds","Dan Wheeler","0%","99%","Groundout: SS-1B (Short RF)",2004-08-20,"Groundout",1
+"b1","1-0","1","-2-","6,(3-2) BCCBBB","","SFG","Barry Bonds","Tom Glavine","-2%","32%","Walk",2004-08-21,"Walk",1
+"b3","2-0","0","---","5,(3-1) BBFBX","","SFG","Barry Bonds","Tom Glavine","-7%","17%","Triple to CF (Line Drive to Deep RF)",2004-08-21,"Triple",1
+"b5","3-6","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Tom Glavine","-4%","76%","Walk",2004-08-21,"Walk",1
+"b6","5-7","1","1--","5,(2-2) CFBBX","R","SFG","Barry Bonds","Ricky Bottalico","-16%","57%","Double to LF (Line Drive to Deep LF Line); Cruz Scores",2004-08-21,"Double",1
+"b8","7-8","0","1--","4,(2-1) BCB11X","","SFG","Barry Bonds","Mike DeJean","-28%","31%","Double to CF (Line Drive to Deep CF); Grissom to 3B",2004-08-21,"Double",1
+"b10","8-9","0","1--","7,(3-2) FFBBFB>X","","SFG","Barry Bonds","Braden Looper","-32%","33%","Single to RF (Ground Ball); Grissom to 3B",2004-08-21,"Single",1
+"b1","1-0","1","1--","8,(2-2) CSFBFFBX","RR","SFG","Barry Bonds","Matt Ginter","14%","79%","Home Run (Fly Ball to CF-RF); Alfonzo Scores",2004-08-22,"Home Run",1
+"b3","3-0","2","---","3,(1-1) CBX","O","SFG","Barry Bonds","Matt Ginter","-1%","81%","Flyball: CF",2004-08-22,"Flyball",1
+"b5","3-1","2","1--","6,(3-2) C*BBTB>X","O","SFG","Barry Bonds","Matt Ginter","-2%","78%","Lineout: 1B",2004-08-22,"Lineout",1
+"b8","3-1","0","---","4,(2-1) CBBX","O","SFG","Barry Bonds","Mike DeJean","-1%","93%","Flyball: CF",2004-08-22,"Flyball",1
+"t1","0-0","2","1--","4,(3-0) BBBB","","SFG","Barry Bonds","A.J. Burnett","-2%","51%","Walk; Alfonzo to 2B",2004-08-24,"Walk",1
+"t3","0-7","2","12-","6,(3-2) BBBSF>B","","SFG","Barry Bonds","A.J. Burnett","-1%","95%","Walk; Correia to 3B; Alfonzo to 2B",2004-08-24,"Walk",1
+"t5","1-9","2","1--","3,(1-1) BCX","O","SFG","Barry Bonds","A.J. Burnett","0%","99%","Lineout: 1B",2004-08-24,"Lineout",1
+"t2","0-1","0","---","1,(0-0) X","O","SFG","Barry Bonds","Dontrelle Willis","-2%","37%","Groundout: 1B unassisted",2004-08-25,"Groundout",1
+"t4","1-1","2","---","4,(3-0) BBII","","SFG","Barry Bonds","Dontrelle Willis","2%","47%","Intentional Walk",2004-08-25,"Walk",1
+"t6","3-4","1","---","6,(3-2) CCBBBS","O","SFG","Barry Bonds","Dontrelle Willis","-3%","27%","Strikeout Swinging",2004-08-25,"Strikeout",1
+"t8","5-5","1","---","4,(3-0) BBBI","","SFG","Barry Bonds","Guillermo Mota","5%","50%","Intentional Walk",2004-08-25,"Walk",1
+"t10","5-5","2","12-","4,(3-0) IIII","","SFG","Barry Bonds","Rudy Seanez","6%","53%","Intentional Walk; Durham to 3B; Cruz to 2B",2004-08-25,"Walk",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Josh Beckett","-2%","48%","Foul Popfly: 3B (3B into Foul Terr.)",2004-08-26,"Foul Out",1
+"t4","2-0","0","-2-","4,(1-2) CCBX","O","SFG","Barry Bonds","Josh Beckett","-1%","78%","Groundout: 1B unassisted; Feliz to 3B",2004-08-26,"Groundout",1
+"t5","4-0","2","1--","2,(1-0) BX","O","SFG","Barry Bonds","Josh Beckett","-1%","88%","Groundout: SS-1B",2004-08-26,"Groundout",1
+"t7","4-0","2","---","5,(0-2) CCFFC","O","SFG","Barry Bonds","Nate Bump","0%","93%","Strikeout Looking",2004-08-26,"Strikeout",1
+"t9","5-0","0","1--","5,(3-1) BBBCB","","SFG","Barry Bonds","Matt Perisho","0%","100%","Walk; Feliz to 2B",2004-08-26,"Walk",1
+"t1","0-0","2","1--","3,(0-2) CFX","O","SFG","Barry Bonds","Jaret Wright","2%","55%","Popfly: SS",2004-08-27,"Popfly",1
+"t4","0-0","0","---","5,(3-1) BBBFB","","SFG","Barry Bonds","Jaret Wright","-4%","46%","Walk",2004-08-27,"Walk",1
+"t6","0-0","1","1-3","5,(3-1) BBBCX","RRR","SFG","Barry Bonds","Jaret Wright","-25%","15%","Home Run (Fly Ball); Durham Scores; Alfonzo Scores",2004-08-27,"Home Run",1
+"t8","3-4","2","1--","7,(2-2) ..CBCFFBC","O","SFG","Barry Bonds","Tom Martin","6%","87%","Strikeout Looking",2004-08-27,"Strikeout",1
+"t1","0-0","2","1--","5,(3-1) BBCBX","O","SFG","Barry Bonds","Paul Byrd","2%","55%","Flyball: LF",2004-08-28,"Flyball",1
+"t3","1-2","1","12-","6,(1-2) CBFFFX","O","SFG","Barry Bonds","Paul Byrd","5%","61%","Flyball: CF (Deep CF); Tucker to 3B",2004-08-28,"Flyball",1
+"t5","1-6","2","---","2,(0-1) CX","","SFG","Barry Bonds","Paul Byrd","-1%","95%","Single to 3B (Ground Ball)",2004-08-28,"Single",1
+"t2","0-0","0","---","5,(2-2) BBCFX","","SFG","Barry Bonds","Russ Ortiz","4%","54%","Single to LF (Ground Ball)",2004-08-29,"Single",1
+"t3","0-0","2","1--","2,(1-0) BX","RR","SFG","Barry Bonds","Russ Ortiz","21%","68%","Home Run (Fly Ball to Deep RF); Snow Scores",2004-08-29,"Home Run",1
+"t5","3-2","1","1--","3,(2-0) BBX","RR","SFG","Barry Bonds","Russ Ortiz","18%","82%","Home Run (Fly Ball); Snow Scores",2004-08-29,"Home Run",1
+"t6","6-3","2","123","1,(0-0) X","RR","SFG","Barry Bonds","Kevin Gryboski","8%","95%","Single to CF (Ground Ball); Mohr Scores; Durham Scores; Feliz to 2B",2004-08-29,"Single",1
+"t8","8-5","1","1--","4,(1-2) BFSS","O","SFG","Barry Bonds","Roman Colon","-1%","92%","Strikeout Swinging",2004-08-29,"Strikeout",1
+"t9","6-5","2","---","3,(1-1) .BFX","O","SFG","Barry Bonds","Roman Colon","1%","21%","Groundout: 2B-1B",2004-08-30,"Groundout",1
+"b1","0-0","2","-2-","5,(3-1) CBBB.I","","SFG","Barry Bonds","Jeff Francis","1%","54%","Intentional Walk",2004-08-31,"Walk",1
+"b3","2-1","2","---","5,(2-2) CBBFS","O","SFG","Barry Bonds","Jeff Francis","-1%","62%","Strikeout Swinging",2004-08-31,"Strikeout",1
+"b5","5-2","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jeff Francis","1%","88%","Walk",2004-08-31,"Walk",1
+"b7","8-5","0","1--","1,(0-0) X","","SFG","Barry Bonds","Brian Fuentes","2%","97%","Ground-rule Double/Fan Interference (Fly Ball); Feliz to 3B",2004-08-31,"Double",1
+"b1","0-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jamey Wright","-1%","56%","Intentional Walk",2004-09-01,"Walk",1
+"b3","0-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jamey Wright","-1%","57%","Intentional Walk",2004-09-01,"Walk",1
+"b5","1-3","2","---","7,(3-2) BCFBFBB","","SFG","Barry Bonds","Jamey Wright","-2%","74%","Walk",2004-09-01,"Walk",1
+"b7","1-4","2","---","5,(3-1) BCBBX","O","SFG","Barry Bonds","Jamey Wright","1%","93%","Flyball: CF (Deep CF)",2004-09-01,"Flyball",1
+"b1","0-0","2","1--","5,(2-2) CBBCX","O","SFG","Barry Bonds","Joe Kennedy","2%","50%","Popfly: 2B",2004-09-02,"Popfly",1
+"b3","1-2","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Joe Kennedy","-1%","57%","Intentional Walk",2004-09-02,"Walk",1
+"b5","3-6","1","1--","4,(0-2) .CSF>C","OO","SFG","Barry Bonds","Joe Kennedy","6%","86%","Double Play: Strikeout Looking, Feliz Caught Stealing 2B (C-3B)",2004-09-02,"Double",1
+"b8","4-6","0","---","1,(0-0) X","","SFG","Barry Bonds","Joe Kennedy","-11%","72%","Double to CF (Ground Ball thru CF-RF)",2004-09-02,"Double",1
+"b1","0-3","1","-23","5,(3-1) CBB.II","","SFG","Barry Bonds","Edgar Gonzalez","2%","37%","Intentional Walk",2004-09-03,"Walk",1
+"b2","7-3","0","-2-","3,(2-0) BBX","RR","SFG","Barry Bonds","Edgar Gonzalez","5%","95%","Home Run (Line Drive); Cruz Scores",2004-09-03,"Home Run",1
+"b3","10-3","1","---","3,(2-0) BBX","O","SFG","Barry Bonds","Chad Durbin","0%","97%","Groundout: 2B-1B (Short RF)",2004-09-03,"Groundout",1
+"b5","11-5","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brian Bruney","0%","98%","Intentional Walk",2004-09-03,"Walk",1
+"b6","14-5","0","1-3","3,(2-0) BBX","RO","SFG","Barry Bonds","Mike Fetters","0%","100%","Flyball: LF/Sacrifice Fly (Deep LF-CF); Alfonzo Scores/unER",2004-09-03,"Flyball",1
+"b2","0-1","0","---","6,(3-2) BCBSBX","O","SFG","Barry Bonds","Steve Randolph","-3%","42%","Groundout: 2B-1B (Short RF)",2004-09-04,"Groundout",1
+"b4","1-2","1","---","6,(3-2) SBCBBX","","SFG","Barry Bonds","Steve Randolph","5%","45%","Double to LF (Line Drive to Deep LF)",2004-09-04,"Double",1
+"b6","1-7","1","1--","5,(2-2) TBFBX","","SFG","Barry Bonds","Steve Randolph","2%","5%","Single to LF (Fly Ball); Cruz to 2B",2004-09-04,"Single",1
+"b7","5-7","1","---","6,(3-2) CBBBFB","","SFG","Barry Bonds","Mike Koplove","5%","23%","Walk",2004-09-04,"Walk",1
+"b2","0-1","0","---","2,(1-0) BX","","SFG","Barry Bonds","Randy Johnson","4%","48%","Single to RF (Line Drive to Deep RF Line)",2004-09-05,"Single",1
+"b4","0-1","1","---","2,(0-1) CX","O","SFG","Barry Bonds","Randy Johnson","-2%","38%","Flyball: LF",2004-09-05,"Flyball",1
+"b6","2-1","1","1--","6,(3-2) BSBBCB","","SFG","Barry Bonds","Randy Johnson","3%","77%","Walk; Feliz to 2B",2004-09-05,"Walk",1
+"b7","4-1","2","12-","4,(3-0) IIII","","SFG","Barry Bonds","Mike Fetters","1%","94%","Intentional Walk; Durham to 3B; Feliz to 2B",2004-09-05,"Walk",1
+"t1","0-0","2","1--","1,(0-0) X","O","SFG","Barry Bonds","Jamey Wright","2%","55%","Flyball: CF",2004-09-07,"Flyball",1
+"t3","1-2","1","--3","4,(2-1) CBB.X","RR","SFG","Barry Bonds","Jamey Wright","-14%","42%","Home Run (Fly Ball); Alfonzo Scores",2004-09-07,"Home Run",1
+"t5","4-2","2","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jamey Wright","-1%","29%","Walk",2004-09-07,"Walk",1
+"t7","4-2","2","1--","4,(3-0) BBBX","","SFG","Barry Bonds","Jeff Fassero","-2%","20%","Single to RF (Line Drive to Deep RF); Alfonzo to 3B",2004-09-07,"Single",1
+"t9","6-8","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Shawn Chacon","-7%","83%","Intentional Walk",2004-09-07,"Walk",1
+"t1","0-0","2","-2-","7,(3-2) FB>B.FBFB","","SFG","Barry Bonds","Joe Kennedy","2%","50%","Walk, Wild Pitch; Feliz to 3B",2004-09-08,"Walk",1
+"t3","0-1","1","12-","1,(0-0) X","OO","SFG","Barry Bonds","Joe Kennedy","-10%","34%","Ground Ball Double Play: 1B-SS-P",2004-09-08,"Groundout",1
+"t6","0-1","0","---","5,(2-2) BSBFS","O","SFG","Barry Bonds","Joe Kennedy","-4%","32%","Strikeout Swinging",2004-09-08,"Strikeout",1
+"t8","1-3","0","1--","4,(2-1) CBBX","","SFG","Barry Bonds","Steve Reed","18%","40%","Double to RF (Line Drive to Deep RF); Feliz to 3B",2004-09-08,"Double",1
+"t9","5-3","0","---","1,(0-0) .H","","SFG","Barry Bonds","Brian Fuentes","1%","93%","Hit By Pitch",2004-09-08,"HBP",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Randy Johnson","2%","52%","Flyball: LF",2004-09-10,"Flyball",1
+"t4","0-0","2","---","5,(2-2) CBBFH","","SFG","Barry Bonds","Randy Johnson","-2%","53%","Hit By Pitch",2004-09-10,"HBP",1
+"t7","0-0","0","---","2,(0-1) CX","","SFG","Barry Bonds","Randy Johnson","-6%","44%","Single to RF (Line Drive)",2004-09-10,"Single",1
+"t8","1-2","2","---","4,(3-0) BIII","","SFG","Barry Bonds","Mike Koplove","-3%","80%","Intentional Walk",2004-09-10,"Walk",1
+"t1","0-0","2","1--","5,(3-1) BCB1BB","","SFG","Barry Bonds","Steve Randolph","2%","49%","Walk; Feliz to 2B",2004-09-11,"Walk",1
+"t3","1-0","1","---","2,(1-0) BX","","SFG","Barry Bonds","Steve Randolph","2%","61%","Single to 2B (Ground Ball)",2004-09-11,"Single",1
+"t5","2-0","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Steve Randolph","2%","74%","Walk",2004-09-11,"Walk",1
+"t7","5-0","1","---","4,(3-0) BBBI","","SFG","Barry Bonds","Lance Cormier","0%","97%","Intentional Walk",2004-09-11,"Walk",1
+"t9","5-1","1","---","6,(3-2) BBFFBC","O","SFG","Barry Bonds","Brian Bruney","0%","98%","Strikeout Looking",2004-09-11,"Strikeout",1
+"t1","0-0","2","1--","6,(3-2) SBBCBB","","SFG","Barry Bonds","Brandon Webb","2%","49%","Walk; Alfonzo to 2B",2004-09-12,"Walk",1
+"t3","0-2","2","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Brandon Webb","2%","29%","Walk; Alfonzo to 2B",2004-09-12,"Walk",1
+"t5","1-2","0","---","4,(1-2) FBFC","O","SFG","Barry Bonds","Brandon Webb","-3%","33%","Strikeout Looking",2004-09-12,"Strikeout",1
+"t7","2-2","2","---","2,(1-0) BX","O","SFG","Barry Bonds","Randy Choate","-2%","41%","Groundout: 2B-1B (Short RF)",2004-09-12,"Groundout",1
+"t9","3-2","1","---","5,(3-1) FBBBX","R","SFG","Barry Bonds","Mike Koplove","10%","91%","Home Run (Fly Ball)",2004-09-12,"Home Run",1
+"t1","0-0","2","--3","9,(3-2) FSBB*B.FFFX","O","SFG","Barry Bonds","Doug Davis","-4%","45%","Popfly: SS (Short CF)",2004-09-14,"Popfly",1
+"t4","0-2","0","1--","6,(3-2) BFSB*BB","","SFG","Barry Bonds","Doug Davis","7%","38%","Walk; Feliz to 2B",2004-09-14,"Walk",1
+"t5","2-2","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Doug Davis","1%","49%","Intentional Walk",2004-09-14,"Walk",1
+"t8","3-2","0","---","3,(2-0) .BBX","O","SFG","Barry Bonds","Luis Vizcaino","-2%","72%","Groundout: 2B-1B (Short RF)",2004-09-14,"Groundout",1
+"t2","0-0","0","---","1,(0-0) X","O","SFG","Barry Bonds","Wes Obermueller","-2%","48%","Flyball: RF (Deep RF)",2004-09-15,"Flyball",1
+"t4","0-0","0","---","3,(1-1) BFX","O","SFG","Barry Bonds","Wes Obermueller","-3%","47%","Groundout: 2B-1B",2004-09-15,"Groundout",1
+"t6","0-0","1","1--","5,(3-1) BBBCB","","SFG","Barry Bonds","Wes Obermueller","5%","55%","Walk; Alfonzo to 2B",2004-09-15,"Walk",1
+"t8","3-0","0","---","4,(2-1) .BSBX","O","SFG","Barry Bonds","Luis Vizcaino","-1%","92%","Groundout: 2B-1B (Short RF)",2004-09-15,"Groundout",1
+"t9","5-1","2","1--","4,(3-0) BB*BX","","SFG","Barry Bonds","Pedro Liriano","0%","98%","Reached on E3 (Ground Ball); Alfonzo to 3B",2004-09-15,"Reached on Error",1
+"t1","0-0","1","12-","5,(2-2) B*BCFX","R","SFG","Barry Bonds","Victor Santos","13%","67%","Double to RF (Line Drive to Deep RF); Cruz Scores; Feliz to 3B",2004-09-16,"Double",1
+"t3","4-0","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Victor Santos","1%","86%","Walk",2004-09-16,"Walk",1
+"t5","4-0","2","---","4,(2-1) BBSX","","SFG","Barry Bonds","Matt Wise","0%","89%","Single to RF (Line Drive)",2004-09-16,"Single",1
+"t8","4-0","1","---","4,(2-1) BBCX","","SFG","Barry Bonds","Mike Adams","0%","96%","Single to LF (Line Drive)",2004-09-16,"Single",1
+"b1","0-0","1","1-3","3,(1-1) SBH","","SFG","Barry Bonds","Jake Peavy","3%","64%","Hit By Pitch; Tucker to 2B",2004-09-17,"HBP",1
+"b3","3-0","0","---","2,(0-1) CX","R","SFG","Barry Bonds","Jake Peavy","5%","89%","Home Run (Fly Ball to LF-CF)",2004-09-17,"Home Run",1
+"b5","4-0","0","---","2,(0-1) CX","O","SFG","Barry Bonds","Jake Peavy","-1%","92%","Lineout: RF",2004-09-17,"Lineout",1
+"b7","4-1","1","1--","4,(1-2) FF*BS","O","SFG","Barry Bonds","Jake Peavy","-1%","93%","Strikeout Swinging",2004-09-17,"Strikeout",1
+"b2","0-0","0","---","1,(0-0) X","R","SFG","Barry Bonds","David Wells","-10%","34%","Home Run (Line Drive)",2004-09-18,"Home Run",1
+"b4","1-1","0","---","5,(2-2) BBCFC","O","SFG","Barry Bonds","David Wells","3%","47%","Strikeout Looking",2004-09-18,"Strikeout",1
+"b7","1-4","0","---","2,(0-1) .CX","O","SFG","Barry Bonds","David Wells","3%","90%","Groundout: 3B-1B",2004-09-18,"Groundout",1
+"b9","1-5","0","1--","4,(1-2) CFBS","O","SFG","Barry Bonds","Akinori Otsuka","2%","98%","Strikeout Swinging",2004-09-18,"Strikeout",1
+"b8","2-2","1","1-3","4,(3-0) ..IIII","","SFG","Barry Bonds","Akinori Otsuka","2%","77%","Intentional Walk; Tucker to 2B",2004-09-19,"Walk",1
+"b1","1-2","0","-23","4,(2-1) BCBX","RR","SFG","Barry Bonds","Carlos Hernandez","8%","68%","Reached on E6 (Ground Ball); Cruz Scores; Feliz Scores/No RBI",2004-09-21,"Reached on Error",1
+"b3","4-2","0","---","5,(3-1) BSBBX","O","SFG","Barry Bonds","Carlos Hernandez","-2%","75%","Popfly: 1B",2004-09-21,"Popfly",1
+"b4","7-2","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brandon Duckworth","0%","94%","Intentional Walk",2004-09-21,"Walk",1
+"b6","8-2","1","---","2,(1-0) BX","O","SFG","Barry Bonds","Tim Redding","0%","98%","Flyball: RF",2004-09-21,"Flyball",1
+"b8","9-2","1","1--","1,(0-0) H","","SFG","Barry Bonds","Russ Springer","0%","100%","Hit By Pitch; Ransom to 2B",2004-09-21,"HBP",1
+"b1","0-0","2","-2-","3,(1-1) C*BX","R","SFG","Barry Bonds","Roy Oswalt","10%","63%","Triple to RF (Line Drive to Deep CF-RF); Feliz Scores",2004-09-22,"Triple",1
+"b3","1-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Roy Oswalt","1%","55%","Intentional Walk",2004-09-22,"Walk",1
+"b5","2-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Roy Oswalt","1%","70%","Intentional Walk",2004-09-22,"Walk",1
+"b6","5-1","2","-23","5,(3-1) .CBB.II","","SFG","Barry Bonds","Mike Gallo","0%","95%","Intentional Walk",2004-09-22,"Walk",1
+"b8","5-1","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Dan Miceli","0%","99%","Intentional Walk",2004-09-22,"Walk",1
+"b1","0-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brandon Backe","-1%","46%","Intentional Walk",2004-09-23,"Walk",1
+"b3","1-0","1","---","5,(3-1) BBCBB","","SFG","Barry Bonds","Brandon Backe","-2%","33%","Walk",2004-09-23,"Walk",1
+"b5","2-0","2","---","3,(2-0) .BBX","","SFG","Barry Bonds","Darren Oliver","-2%","20%","Triple to RF (Fly Ball)",2004-09-23,"Triple",1
+"b7","3-1","2","---","3,(1-1) FBX","O","SFG","Barry Bonds","Chad Qualls","1%","14%","Lineout: RF",2004-09-23,"Lineout",1
+"b2","0-0","0","---","2,(0-1) CX","R","SFG","Barry Bonds","Odalis Perez","-10%","34%","Home Run (Line Drive)",2004-09-24,"Home Run",1
+"b4","2-3","1","---","6,(3-2) FCBBBC","O","SFG","Barry Bonds","Odalis Perez","2%","62%","Strikeout Looking",2004-09-24,"Strikeout",1
+"b7","2-3","0","---","4,(1-2) BCFS","O","SFG","Barry Bonds","Odalis Perez","5%","68%","Strikeout Swinging",2004-09-24,"Strikeout",1
+"b9","2-3","2","1--","4,(3-0) .IIII","","SFG","Barry Bonds","Eric Gagne","-7%","82%","Intentional Walk; Ellison to 2B",2004-09-24,"Walk",1
+"b1","1-2","1","1--","4,(3-0) BBBI","","SFG","Barry Bonds","Jose Lima","4%","49%","Intentional Walk; Feliz to 2B",2004-09-25,"Walk",1
+"b3","2-2","2","---","4,(3-0) IIII","","SFG","Barry Bonds","Jose Lima","1%","53%","Intentional Walk",2004-09-25,"Walk",1
+"b5","4-4","0","1--","5,(3-1) BFBB*B","","SFG","Barry Bonds","Scott Stewart","7%","68%","Walk; Feliz to 2B",2004-09-25,"Walk",1
+"b7","5-5","1","1--","4,(3-0) IIII","","SFG","Barry Bonds","Mike Venafro","5%","65%","Intentional Walk; Feliz to 2B",2004-09-25,"Walk",1
+"b8","9-5","2","---","7,(3-2) BFSBFBB","","SFG","Barry Bonds","Yhency Brazoban","0%","99%","Walk",2004-09-25,"Walk",1
+"b1","1-2","2","---","5,(3-1) BFBBB","","SFG","Barry Bonds","Jeff Weaver","-1%","58%","Walk",2004-09-26,"Walk",1
+"b3","2-2","1","---","2,(1-0) BX","R","SFG","Barry Bonds","Jeff Weaver","-12%","35%","Home Run (Line Drive)",2004-09-26,"Home Run",1
+"b5","3-4","0","---","6,(3-2) CBBCBT","O","SFG","Barry Bonds","Jeff Weaver","3%","62%","Strikeout Swinging",2004-09-26,"Strikeout",1
+"b7","3-6","0","1--","3,(1-1) .FBX","","SFG","Barry Bonds","Mike Venafro","-12%","70%","Reached on E4 (Ground Ball to Short RF); Feliz to 3B",2004-09-26,"Reached on Error",1
+"b9","4-7","2","---","5,(1-2) SBSFX","","SFG","Barry Bonds","Eric Gagne","-1%","98%","Single to SS (Ground Ball)",2004-09-26,"Single",1
+"t2","0-0","0","---","5,(3-1) BCBBX","O","SFG","Barry Bonds","Brian Lawrence","-2%","48%","Lineout: LF (Deep LF)",2004-09-28,"Lineout",1
+"t3","0-2","2","1-3","4,(3-0) IIII","","SFG","Barry Bonds","Brian Lawrence","3%","31%","Intentional Walk; Tucker to 2B",2004-09-28,"Walk",1
+"t4","5-2","1","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Brian Lawrence","1%","85%","Intentional Walk",2004-09-28,"Walk",1
+"t5","7-3","2","12-","6,(3-2) .BCTB*BX","O","SFG","Barry Bonds","Antonio Osuna","-1%","89%","Groundout: 1B unassisted",2004-09-28,"Groundout",1
+"t7","7-4","2","1--","6,(2-2) BCCBFX","O","SFG","Barry Bonds","Scott Linebrink","-1%","89%","Groundout: 1B unassisted",2004-09-28,"Groundout",1
+"t1","0-0","2","1--","7,(3-2) SBBFB>F>B","","SFG","Barry Bonds","David Wells","-2%","50%","Walk; Alfonzo to 2B",2004-09-29,"Walk",1
+"t3","2-0","2","1--","1,(0-0) X","O","SFG","Barry Bonds","David Wells","2%","31%","Groundout: 2B-1B (Short RF)",2004-09-29,"Groundout",1
+"t6","3-1","0","---","3,(0-2) CSS","O","SFG","Barry Bonds","David Wells","2%","22%","Strikeout Swinging",2004-09-29,"Strikeout",1
+"t8","3-3","2","1--","5,(3-1) BBCBX","O","SFG","Barry Bonds","David Wells","5%","60%","Groundout: 1B unassisted",2004-09-29,"Groundout",1
+"t2","0-1","0","---","6,(1-2) CBCFFC","O","SFG","Barry Bonds","Adam Eaton","-2%","37%","Strikeout Looking",2004-09-30,"Strikeout",1
+"t4","1-1","1","1--","4,(1-2) FBFX","","SFG","Barry Bonds","Adam Eaton","8%","58%","Reached on E3 (Ground Ball); Alfonzo to 3B",2004-09-30,"Reached on Error",1
+"t5","4-1","2","12-","3,(1-1) CBX","O","SFG","Barry Bonds","Adam Eaton","-2%","83%","Flyball: CF (Deep CF)",2004-09-30,"Flyball",1
+"t8","4-1","1","---","7,(3-2) FBBBFFX","","SFG","Barry Bonds","Adam Eaton","1%","94%","Single to 2B (Ground Ball)",2004-09-30,"Single",1
+"t2","0-0","0","---","4,(3-0) BBBB","","SFG","Barry Bonds","Jeff Weaver","4%","54%","Walk",2004-10-01,"Walk",1
+"t3","2-0","2","-2-","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Weaver","1%","71%","Intentional Walk",2004-10-01,"Walk",1
+"t6","2-1","1","---","4,(3-0) IIII","","SFG","Barry Bonds","Jeff Weaver","3%","67%","Intentional Walk",2004-10-01,"Walk",1
+"t8","3-2","0","---","5,(3-1) ..BBBCX","O","SFG","Barry Bonds","Mike Venafro","-2%","73%","Groundout: 2B-1B (Short RF)",2004-10-01,"Groundout",1
+"t1","0-0","1","12-","1,(0-0) X","O","SFG","Barry Bonds","Elmer Dessens","4%","51%","Foul Popfly: 3B (3B into Foul Terr.)",2004-10-02,"Foul Out",1
+"t4","0-0","1","---","4,(3-0) BBBB","","SFG","Barry Bonds","Elmer Dessens","-3%","50%","Walk",2004-10-02,"Walk",1
+"t6","2-0","0","---","6,(3-2) CBBBF*B","","SFG","Barry Bonds","Wilson Alvarez","-3%","19%","Walk",2004-10-02,"Walk",1
+"t8","3-0","0","---","5,(3-1) .CBBBB","","SFG","Barry Bonds","Giovanni Carrara","-1%","6%","Walk",2004-10-02,"Walk",1
+"t1","2-0","1","---","3,(1-1) CBX","O","SFG","Barry Bonds","Kazuhisa Ishii","-1%","66%","Popfly: 3B",2004-10-03,"Popfly",1
+"t3","2-0","2","1--","4,(3-0) BBBB","","SFG","Barry Bonds","Kazuhisa Ishii","2%","71%","Walk; Feliz to 2B",2004-10-03,"Walk",1

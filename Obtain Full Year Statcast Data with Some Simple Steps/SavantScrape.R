@@ -154,6 +154,8 @@ ABs = SavantData19 %>%
 ############## WATCH MY YOUTUBE VIDEO FOR THE CODE ####################
 ############## WATCH MY YOUTUBE VIDEO FOR THE CODE ####################
 
+### YouTube Video: https://www.youtube.com/watch?v=swJr4u-HYr0 ###
+
 #merge both tables together and filter players with at least 100 ABs with the shift on
 #create a column that displays the batting average on those events and sort desc by batting average
 #display only the top 10 players in this category

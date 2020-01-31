@@ -94,7 +94,7 @@ SavantData19 = rbind(date328407, date408414, date415421, date422428, date429505,
                      date923929)
 
 #Since the dataset is large, I tend to create a smaller dataset to see the data for cleaning purposes
-SavantOBS = SavantData19[sample(nrow(SavantData19),10),]
+SavantOBS = SavantData19 %>% sample_n(10)
 
 #write file to a csv on your machine (csv is a comma separated value excel file)
 write.csv(SavantData19,"SavantHittingData19.csv", row.names = F)

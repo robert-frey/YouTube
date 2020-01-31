@@ -5,6 +5,10 @@ library(devtools)
 #http://billpetti.github.io/baseballr/
 install_github("BillPetti/baseballr")
 
+#call tidyverse for dplyr purposes
+#install.packages('tidyverse')
+library(tidyverse)
+
 #load Statcast data week by week, since it can only load 10 days at a time or 40,000 observations
 #scrape_statcast_savant scrapes data from Savant given the game dates and the player types
 date328407 = baseballr::scrape_statcast_savant(start_date = '2019-03-28',

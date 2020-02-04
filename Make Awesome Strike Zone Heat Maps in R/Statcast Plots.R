@@ -9,6 +9,7 @@ db = dbConnect(SQLite(), dbname ="Statcast.sqlite")
 #load in data via a SQL query
 HData <- dbGetQuery(conn = db, "SELECT * FROM Statcast_Hitting")
 
+#install these packages if you haven't already by removing the '#' in front of them
 #install.packages('devtools')
 #https://baseballwithr.wordpress.com/author/bayesball/
 #devtools::install_github("bayesball/CalledStrike")

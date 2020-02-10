@@ -1,0 +1,291 @@
+last_name, first_name,player_id,display_team_name,year,primary_pos_formatted,outs_above_average,outs_above_average_infront,outs_above_average_lateral_toward3bline,outs_above_average_lateral_toward1bline,outs_above_average_behind,outs_above_average_rhh,outs_above_average_lhh,actual_success_rate_formatted,adj_estimated_success_rate_formatted,diff_success_rate_formatted
+Abreu, Jose,547989,White Sox,2019,1B,-3,-2,1,0,-1,-1,-3,86%,87%,-1%
+Adames, Cristhian,542436,Giants,2019,3B,1,0,0,0,0,0,0,90%,85%,5%
+Adames, Willy,642715,Rays,2019,SS,4,3,-1,0,2,3,1,86%,86%,0%
+Adams, Matt,571431,Nationals,2019,1B,1,-2,2,1,1,0,1,93%,92%,1%
+Adrianza, Ehire,501303,Twins,2019,SS,-1,0,-3,2,-1,1,-2,86%,87%,-1%
+Aguilar, Jesus,542583,---,2019,1B,0,-2,2,0,0,1,-1,89%,89%,0%
+Ahmed, Nick,605113,Diamondbacks,2019,SS,16,10,0,5,2,8,8,90%,87%,3%
+Alberto, Hanser,593643,Orioles,2019,2B,6,3,-3,5,2,3,3,90%,88%,2%
+Albies, Ozzie,645277,Braves,2019,2B,-2,1,-10,8,-1,2,-4,85%,85%,0%
+Alonso, Pete,624413,Mets,2019,1B,-7,1,-6,0,-1,-2,-5,87%,90%,-3%
+Alonso, Yonder,475174,---,2019,1B,0,0,-1,0,0,1,-1,95%,95%,0%
+Altuve, Jose,514888,Astros,2019,2B,-1,2,-2,0,-1,1,-2,85%,85%,0%
+Anderson, Brian,605119,Marlins,2019,3B,2,0,4,0,-1,3,-1,86%,85%,1%
+Anderson, Tim,641313,White Sox,2019,SS,-1,-8,0,5,1,-3,2,85%,85%,0%
+Andrus, Elvis,462101,Rangers,2019,SS,5,8,-4,0,1,-2,7,86%,85%,1%
+Arcia, Orlando,606115,Brewers,2019,SS,-4,-1,-2,-4,2,-7,2,85%,86%,-1%
+Arenado, Nolan,571448,Rockies,2019,3B,17,0,4,12,1,12,5,89%,85%,4%
+Arraez, Luis,650333,Twins,2019,2B,-6,-1,-6,0,2,-2,-4,86%,90%,-4%
+Arroyo, Christian,624414,Rays,2019,3B,-1,-2,0,0,0,-1,-1,76%,81%,-5%
+Arteaga, Humberto,600858,Royals,2019,SS,-4,-2,-1,-1,0,-3,-1,84%,88%,-4%
+Astudillo, Willians,553902,Twins,2019,3B,1,1,1,-1,0,1,0,88%,87%,1%
+Austin, Tyler,592122,---,2019,1B,-2,0,-1,-1,-1,-1,-1,77%,95%,-18%
+Baez, Javier,595879,Cubs,2019,SS,19,7,4,7,1,13,6,88%,83%,5%
+Barreto, Franklin,620439,Athletics,2019,2B,0,-1,-1,1,0,0,0,90%,90%,0%
+Bauers, Jake,641343,Indians,2019,1B,0,0,-1,0,0,0,0,88%,88%,0%
+Beaty, Matt,607461,Dodgers,2019,1B,-3,-1,-3,1,0,-1,-2,79%,86%,-7%
+Beckham, Gordon,493596,Tigers,2019,2B,-2,1,-3,0,0,1,-3,91%,92%,-1%
+Beckham, Tim,542921,Mariners,2019,SS,-9,-2,-7,0,0,-4,-4,84%,89%,-5%
+Bell, Josh,605137,Pirates,2019,1B,-5,-1,-2,-1,-1,-3,-1,85%,88%,-3%
+Bellinger, Cody,641355,Dodgers,2019,1B,1,1,-1,0,0,1,1,93%,90%,3%
+Belt, Brandon,474832,Giants,2019,1B,3,1,1,1,1,0,4,91%,90%,1%
+Berti, Jon,542932,Marlins,2019,SS,3,1,1,0,1,2,1,91%,88%,3%
+Bichette, Bo,666182,Blue Jays,2019,SS,-4,-3,-2,0,0,-3,-1,86%,89%,-3%
+Biggio, Cavan,624415,Blue Jays,2019,2B,7,3,0,4,1,2,6,92%,88%,4%
+Bird, Greg,595885,Yankees,2019,1B,0,-1,0,1,0,0,0,85%,86%,-1%
+Blandino, Alex,607468,Reds,2019,2B,0,0,-1,0,0,0,0,95%,93%,2%
+Bogaerts, Xander,593428,Red Sox,2019,SS,-3,0,-2,-2,1,-6,3,87%,88%,-1%
+Bote, David,623520,Cubs,2019,3B,3,0,1,1,1,3,0,89%,87%,2%
+Bour, Justin,571506,Angels,2019,1B,-1,-2,1,0,0,0,-1,91%,93%,-2%
+Bregman, Alex,608324,Astros,2019,3B,3,2,-1,2,0,3,1,88%,87%,1%
+Brosseau, Michael,670712,Rays,2019,2B,-2,-1,-2,0,0,-2,0,83%,86%,-3%
+Bruce, Jay,457803,Mariners,2019,1B,-1,-2,0,0,0,-1,0,85%,91%,-6%
+Bryant, Kris,592178,Cubs,2019,3B,2,-1,1,1,0,0,2,88%,87%,1%
+Cabrera, Asdrubal,452678,---,2019,3B,7,2,1,4,0,5,2,89%,87%,2%
+Cabrera, Miguel,408234,Tigers,2019,1B,-1,-1,-1,0,0,0,-1,92%,96%,-4%
+Camargo, Johan,622666,Braves,2019,SS,-3,1,-4,1,1,-4,1,84%,87%,-3%
+Candelario, Jeimer,600869,Tigers,2019,3B,3,1,-1,4,-1,3,0,87%,85%,2%
+Cano, Robinson,429664,Mets,2019,2B,-1,0,-2,2,-1,0,0,84%,85%,-1%
+Caratini, Victor,605170,Cubs,2019,1B,-1,0,-2,0,0,0,-1,81%,89%,-8%
+Carpenter, Matt,572761,Cardinals,2019,3B,6,2,0,5,-1,4,3,91%,87%,4%
+Castro, Harold,605612,Tigers,2019,2B,-2,0,-2,0,-1,1,-3,89%,91%,-2%
+Castro, Starlin,516770,Marlins,2019,2B,10,2,-1,5,4,6,4,90%,87%,3%
+Castro, Willi,650489,Tigers,2019,SS,-3,-2,0,1,-2,-2,-1,85%,89%,-4%
+Chang, Yu,644374,Indians,2019,3B,2,2,0,0,0,1,1,90%,85%,5%
+Chapman, Matt,656305,Athletics,2019,3B,14,8,1,4,1,13,1,89%,85%,4%
+Chavis, Michael,656308,Red Sox,2019,2B,4,0,2,1,0,1,3,90%,87%,3%
+Choi, Ji-Man,596847,Rays,2019,1B,-2,-1,-3,2,1,0,-2,90%,92%,-2%
+Cooper, Garrett,643265,Marlins,2019,1B,4,1,2,0,1,2,2,95%,91%,4%
+Correa, Carlos,621043,Astros,2019,SS,9,4,2,2,1,6,2,89%,85%,4%
+Cowart, Kaleb,592230,Angels,2019,3B,-1,0,0,0,0,-1,0,88%,92%,-4%
+Cozart, Zack,446359,Angels,2019,3B,1,0,0,0,1,1,0,95%,93%,2%
+Crawford, Brandon,543063,Giants,2019,SS,-4,4,-4,-2,-1,2,-6,85%,86%,-1%
+Crawford, J.P.,641487,Mariners,2019,SS,2,4,-2,0,0,2,0,89%,88%,1%
+Cron, C.J.,543068,Twins,2019,1B,1,0,2,-1,0,1,0,90%,89%,1%
+Culberson, Charlie,518586,Braves,2019,SS,2,0,1,1,1,1,1,89%,82%,7%
+Cuthbert, Cheslor,596144,Royals,2019,3B,-5,-2,-1,-2,0,-4,-2,85%,89%,-4%
+Davis, Chris,448801,Orioles,2019,1B,0,-3,3,1,-1,-3,3,88%,88%,0%
+Davis, J.D.,605204,Mets,2019,3B,1,-2,1,2,0,1,0,83%,81%,2%
+DeJong, Paul,657557,Cardinals,2019,SS,13,6,-5,10,1,8,4,91%,88%,3%
+Descalso, Daniel,518614,Cubs,2019,2B,-4,1,-2,-1,-1,-3,-1,86%,90%,-4%
+Devers, Rafael,646240,Red Sox,2019,3B,7,-1,-4,9,3,4,3,85%,83%,2%
+Diaz, Aledmys,649557,Astros,2019,2B,2,3,-2,1,1,0,3,89%,86%,3%
+Diaz, Isan,656371,Marlins,2019,2B,-4,-3,1,-3,0,-4,0,84%,87%,-3%
+Diaz, Yandy,650490,Rays,2019,3B,-2,0,-2,0,0,-2,0,87%,89%,-2%
+Dietrich, Derek,518618,Reds,2019,2B,-1,0,0,0,-1,1,-1,89%,89%,0%
+Difo, Wilmer,594694,Nationals,2019,SS,1,0,-3,3,1,2,-1,84%,83%,1%
+Dixon, Brandon,641525,Tigers,2019,1B,-2,-1,0,-1,0,-1,-1,90%,92%,-2%
+Donaldson, Josh,518626,Braves,2019,3B,8,5,1,3,0,11,-3,87%,84%,3%
+Dozier, Brian,572821,Nationals,2019,2B,-6,-2,-4,0,-1,-4,-2,85%,87%,-2%
+Dozier, Hunter,641531,Royals,2019,3B,0,1,-1,-1,1,0,0,88%,88%,0%
+Drury, Brandon,592273,Blue Jays,2019,3B,4,4,-2,2,0,2,3,87%,85%,2%
+Dubon, Mauricio,643289,Giants,2019,2B,-2,-2,-1,1,0,-2,0,85%,87%,-2%
+Duda, Lucas,446263,Royals,2019,1B,-1,0,-1,0,0,-1,0,73%,76%,-3%
+Duffy, Matt,622110,Rays,2019,3B,-2,-1,0,-2,0,-2,-1,83%,85%,-2%
+Edman, Tommy,669242,Cardinals,2019,3B,3,1,1,-2,4,0,4,88%,86%,2%
+Encarnacion, Edwin,429665,---,2019,1B,1,1,-1,1,0,-1,2,88%,86%,2%
+Escobar, Eduardo,500871,Diamondbacks,2019,3B,-4,-3,-1,0,0,-2,-2,84%,85%,-1%
+Estrada, Thairo,642731,Yankees,2019,SS,1,2,0,-1,0,1,0,87%,83%,4%
+Farmer, Kyle,571657,Reds,2019,2B,1,0,1,0,0,1,0,88%,87%,1%
+Flaherty, Ryan,475247,Indians,2019,3B,-1,-1,-1,1,0,1,-2,84%,88%,-4%
+Fletcher, David,664058,Angels,2019,3B,6,5,1,0,0,5,2,90%,88%,2%
+Flores, Wilmer,527038,Diamondbacks,2019,2B,2,0,1,1,0,2,0,87%,86%,1%
+Ford, Mike,645801,Yankees,2019,1B,2,1,1,0,0,1,1,94%,87%,7%
+Forsythe, Logan,523253,Rangers,2019,3B,-4,-2,0,-3,1,-5,1,85%,88%,-3%
+France, Ty,664034,Padres,2019,3B,-1,0,-1,0,-1,0,-1,85%,86%,-1%
+Franco, Maikel,596748,Phillies,2019,3B,-7,1,-3,-4,-1,-4,-4,81%,84%,-3%
+Frazier, Adam,624428,Pirates,2019,2B,11,1,2,7,1,6,5,94%,90%,4%
+Frazier, Todd,453943,Mets,2019,3B,-1,0,-4,2,0,-1,0,89%,89%,0%
+Freeman, Freddie,518692,Braves,2019,1B,2,2,2,-1,-1,-1,3,92%,91%,1%
+Freeman, Mike,502273,Indians,2019,2B,-1,0,0,0,-1,-2,1,90%,90%,0%
+Freese, David,501896,Dodgers,2019,1B,0,1,1,-1,-1,0,1,93%,92%,1%
+Fuentes, Josh,658069,Rockies,2019,1B,1,1,0,0,0,1,1,100%,92%,8%
+Galvis, Freddy,520471,---,2019,SS,12,6,2,2,1,10,3,90%,87%,3%
+Garcia, Greg,594824,Padres,2019,2B,-1,-2,2,-1,-1,-1,0,86%,87%,-1%
+Garcia, Leury,544725,White Sox,2019,SS,-1,-1,0,0,0,1,-2,87%,88%,-1%
+Garcia, Robel,596825,Cubs,2019,2B,1,0,0,0,0,0,1,96%,94%,2%
+Gennett, Scooter,571697,---,2019,2B,-3,-1,-2,1,-1,-1,-3,87%,91%,-4%
+Goins, Ryan,572365,White Sox,2019,3B,0,0,0,1,-1,0,0,87%,86%,1%
+Goldschmidt, Paul,502671,Cardinals,2019,1B,5,3,1,0,1,4,1,95%,92%,3%
+Gonzalez, Erik,570481,Pirates,2019,SS,0,-1,0,3,-1,1,-1,90%,90%,0%
+Gonzalez, Marwin,503556,Twins,2019,3B,7,1,3,3,0,3,4,93%,88%,5%
+Goodrum, Niko,592348,Tigers,2019,SS,8,-1,1,7,2,10,-1,93%,89%,4%
+Gordon, Dee,543829,Mariners,2019,2B,0,2,-2,0,0,-1,1,89%,89%,0%
+Gosselin, Phil,594838,Phillies,2019,SS,-2,-2,0,0,0,-2,0,73%,88%,-15%
+Grandal, Yasmani,518735,Brewers,2019,1B,0,1,0,-1,0,0,0,90%,92%,-2%
+Gregorius, Didi,544369,Yankees,2019,SS,-13,-12,-2,-1,1,-9,-4,83%,89%,-6%
+Guerrero Jr., Vladimir,665489,Blue Jays,2019,3B,-16,-10,-4,-2,0,-11,-6,78%,86%,-8%
+Guillorme, Luis,641645,Mets,2019,SS,1,1,-1,1,0,0,0,88%,86%,2%
+Gurriel Jr., Lourdes,666971,Blue Jays,2019,2B,-1,0,0,-1,0,-1,0,77%,86%,-9%
+Gurriel, Yuli,493329,Astros,2019,1B,2,4,-1,0,-1,-1,3,91%,90%,1%
+Gutierrez, Kelvin,642721,Royals,2019,3B,-1,-1,0,0,0,0,-1,85%,87%,-2%
+Guzman, Ronald,608597,Rangers,2019,1B,-1,0,0,-2,0,-1,0,90%,91%,-1%
+Gyorko, Jedd,576397,---,2019,3B,5,1,1,3,0,4,1,93%,82%,11%
+Hampson, Garrett,641658,Rockies,2019,2B,0,1,-3,-1,3,1,-1,90%,90%,0%
+Hanson, Alen,593700,Blue Jays,2019,2B,0,0,0,-1,0,-1,0,94%,95%,-1%
+Happ, Ian,664023,Cubs,2019,2B,-2,0,-2,1,-1,-1,-1,85%,90%,-5%
+Harrison, Josh,543281,Tigers,2019,2B,-1,-1,-1,0,1,2,-3,89%,89%,0%
+Healy, Ryon,592387,Mariners,2019,3B,-5,0,-2,-2,-1,-5,0,81%,86%,-5%
+Hechavarria, Adeiny,588751,---,2019,SS,-2,0,-1,0,0,-2,-1,83%,84%,-1%
+Hernandez, Cesar,514917,Phillies,2019,2B,4,-2,-3,4,4,6,-2,88%,87%,1%
+Hernandez, Enrique,571771,Dodgers,2019,2B,1,-1,1,0,0,0,1,90%,89%,1%
+Hernandez, Marco,593523,Red Sox,2019,2B,-2,1,-1,-2,0,1,-4,82%,86%,-4%
+Hicks, John,543308,Tigers,2019,1B,0,0,0,0,0,1,0,92%,90%,2%
+Hiura, Keston,669374,Brewers,2019,2B,-7,-4,-5,0,1,-4,-3,80%,83%,-3%
+Hoerner, Nico,663538,Cubs,2019,SS,0,1,0,0,-1,-1,1,81%,80%,1%
+Holt, Brock,571788,Red Sox,2019,2B,5,5,0,0,0,4,1,91%,88%,3%
+Hoskins, Rhys,656555,Phillies,2019,1B,4,3,2,-1,0,1,2,92%,90%,2%
+Hosmer, Eric,543333,Padres,2019,1B,-6,0,-4,0,-1,-4,-1,88%,90%,-2%
+Iglesias, Jose,578428,Reds,2019,SS,12,2,0,8,2,9,3,90%,87%,3%
+Joseph, Corban,543377,---,2019,2B,-3,-1,0,-3,0,0,-2,81%,89%,-8%
+Kang, Jung Ho,628356,Pirates,2019,3B,-4,-2,0,-1,-1,-4,-1,78%,82%,-4%
+Kemp, Tony,643393,---,2019,2B,6,1,1,1,2,5,1,90%,83%,7%
+Kendrick, Howie,435062,Nationals,2019,2B,-3,0,-2,-1,-1,-2,-1,89%,91%,-2%
+Kieboom, Carter,666198,Nationals,2019,SS,-1,0,-1,0,0,0,-1,88%,91%,-3%
+Kiner-Falefa, Isiah,643396,Rangers,2019,3B,5,2,0,2,0,4,0,94%,86%,8%
+Kingery, Scott,664068,Phillies,2019,3B,1,0,0,1,0,0,1,88%,88%,0%
+Kinsler, Ian,435079,Padres,2019,2B,1,2,-1,0,0,-1,2,87%,86%,1%
+Kipnis, Jason,543401,Indians,2019,2B,-6,-2,-2,-2,0,-4,-2,87%,89%,-2%
+La Stella, Tommy,600303,Angels,2019,2B,0,2,-1,1,-1,3,-3,86%,86%,0%
+Lamb, Jake,571875,Diamondbacks,2019,3B,-1,-1,-4,2,3,0,-2,83%,84%,-1%
+LeMahieu, DJ,518934,Yankees,2019,2B,6,3,-3,7,-1,7,-1,90%,88%,2%
+Leyba, Domingo,642736,Diamondbacks,2019,2B,-1,-1,1,0,0,-1,0,80%,84%,-4%
+Lin, Tzu-Wei,624407,Red Sox,2019,2B,0,0,-1,0,0,-1,0,91%,95%,-4%
+Lindor, Francisco,596019,Indians,2019,SS,11,3,2,8,-2,7,4,88%,85%,3%
+Long, Shed,643418,Mariners,2019,2B,-2,0,-2,0,0,-1,-1,82%,85%,-3%
+Longoria, Evan,446334,Giants,2019,3B,3,1,-2,3,0,1,2,87%,86%,1%
+Lopez, Nicky,670032,Royals,2019,2B,4,3,-1,5,-2,3,1,91%,90%,1%
+Lowe, Brandon,664040,Rays,2019,2B,-4,1,-5,1,-2,-4,-1,86%,88%,-2%
+Lowe, Nate,663993,Rays,2019,1B,-3,0,-2,-1,-1,-2,-1,83%,95%,-12%
+Lugo, Dawel,608475,Tigers,2019,3B,-2,1,-4,1,0,-2,0,86%,87%,-1%
+Lux, Gavin,666158,Dodgers,2019,2B,2,0,-1,1,1,1,1,91%,88%,3%
+Machado, Manny,592518,Padres,2019,3B,-2,-4,0,2,-1,-1,-1,85%,85%,0%
+Mancini, Trey,641820,Orioles,2019,1B,0,-1,1,0,1,-2,3,94%,93%,1%
+Marte, Ketel,606466,Diamondbacks,2019,2B,-1,2,-4,0,0,-2,0,86%,87%,-1%
+Martin, Richie,621006,Orioles,2019,SS,-5,0,-3,0,-1,-5,0,84%,86%,-2%
+Mayfield, Jack,608686,Astros,2019,SS,2,0,0,1,0,2,0,92%,89%,3%
+McMahon, Ryan,641857,Rockies,2019,2B,0,0,-4,3,1,-2,1,91%,91%,0%
+McNeil, Jeff,643446,Mets,2019,2B,4,3,-1,2,0,4,0,93%,88%,5%
+Mejias-Brean, Seth,623180,Padres,2019,SS,0,0,0,-1,0,0,0,94%,92%,2%
+Mendick, Danny,664901,White Sox,2019,2B,-1,1,-1,-1,0,0,0,89%,91%,-2%
+Mercer, Jordy,474568,Tigers,2019,SS,2,3,-3,2,0,-1,3,87%,86%,1%
+Merrifield, Whit,593160,Royals,2019,2B,-4,-1,-2,1,-2,-3,-2,87%,88%,-1%
+Miller, Brad,543543,---,2019,3B,-2,-3,0,1,0,-3,0,85%,89%,-4%
+Moncada, Yoan,660162,White Sox,2019,3B,5,3,3,-1,0,4,2,88%,86%,2%
+Mondesi, Adalberto,609275,Royals,2019,SS,4,-2,-2,6,1,2,1,90%,89%,1%
+Moore, Dylan,664238,Mariners,2019,SS,-2,1,0,-2,-1,1,-3,87%,88%,-1%
+Morales, Kendrys,434778,---,2019,1B,2,1,2,0,0,0,2,97%,92%,5%
+Moran, Colin,592567,Pirates,2019,3B,-6,-3,-8,6,-1,-3,-2,84%,86%,-2%
+Moreland, Mitch,519048,Red Sox,2019,1B,-1,0,1,-3,0,-1,0,90%,92%,-2%
+Moroff, Max,621559,Indians,2019,SS,-1,-1,-1,0,0,-2,0,86%,93%,-7%
+Moustakas, Mike,519058,Brewers,2019,3B,0,-1,-2,1,2,-3,3,84%,84%,0%
+Muncy, Max,571970,Dodgers,2019,2B,0,-1,0,4,-2,3,-3,89%,89%,0%
+Munoz, Yairo,622168,Cardinals,2019,SS,1,1,1,-1,-1,0,0,89%,88%,1%
+Murphy, Daniel,502517,Rockies,2019,1B,0,0,0,0,0,0,-1,91%,91%,0%
+Negron, Kristopher,502117,Dodgers,2019,2B,2,1,1,0,0,1,1,100%,91%,9%
+Neuse, Sheldon,641914,Athletics,2019,2B,2,1,0,1,0,1,1,92%,86%,6%
+Newman, Kevin,621028,Pirates,2019,SS,-8,-2,-6,1,0,-5,-2,87%,89%,-2%
+Nola, Austin,543592,Mariners,2019,1B,1,1,0,1,0,0,2,90%,89%,1%
+Nunez, Eduardo,456488,Red Sox,2019,2B,-2,0,-1,0,-2,-2,0,84%,87%,-3%
+Nunez, Renato,600524,Orioles,2019,1B,-6,-3,-3,-1,0,-2,-4,79%,92%,-13%
+O'Hearn, Ryan,656811,Royals,2019,1B,2,2,-1,1,-1,2,0,95%,93%,2%
+Odor, Rougned,596059,Rangers,2019,2B,4,3,-1,3,-1,0,4,87%,85%,2%
+Olson, Matt,621566,Athletics,2019,1B,12,-1,9,2,3,4,8,93%,88%,5%
+Osuna, Jose,591741,Pirates,2019,1B,-1,0,0,-1,0,0,-2,88%,90%,-2%
+Owings, Chris,572008,---,2019,2B,0,1,0,-1,0,0,0,86%,86%,0%
+Panik, Joe,605412,---,2019,2B,2,0,-3,6,-1,0,2,88%,87%,1%
+Parra, Gerardo,467827,Nationals,2019,1B,1,0,1,0,0,0,1,100%,94%,6%
+Pearce, Steve,456665,Red Sox,2019,1B,-2,0,-3,0,0,1,-3,79%,86%,-7%
+Pederson, Joc,592626,Dodgers,2019,1B,-6,-2,-4,0,-1,-2,-4,71%,94%,-23%
+Pedroia, Dustin,456030,Red Sox,2019,2B,-1,0,0,-1,0,0,-1,90%,98%,-8%
+Peraza, Jose,606299,Reds,2019,2B,2,1,0,2,-1,1,0,90%,90%,0%
+Perez, Hernan,541650,Brewers,2019,2B,2,-2,0,3,1,2,1,85%,83%,2%
+Peterson, Jace,607054,Orioles,2019,2B,1,0,-1,1,0,0,1,93%,91%,2%
+Pinder, Chad,640461,Athletics,2019,2B,-7,-4,-3,-1,0,-4,-3,77%,88%,-11%
+Polanco, Jorge,593871,Twins,2019,SS,-16,-9,-4,-3,0,-14,-1,83%,86%,-3%
+Prado, Martin,445988,Marlins,2019,1B,-1,-2,-1,2,0,-1,0,87%,88%,-1%
+Profar, Jurickson,595777,Athletics,2019,2B,-3,0,-4,-1,1,-1,-2,90%,90%,0%
+Pujols, Albert,405395,Angels,2019,1B,1,0,2,-1,0,0,1,90%,89%,1%
+Ramirez, Jose,608070,Indians,2019,3B,0,1,-1,-1,0,0,0,87%,87%,0%
+Rendon, Anthony,543685,Nationals,2019,3B,2,1,2,0,0,3,0,87%,87%,0%
+Rengifo, Luis,650859,Angels,2019,2B,2,-2,0,2,2,5,-2,90%,89%,1%
+Reyes, Pablo,622569,Pirates,2019,2B,0,0,0,1,0,0,0,88%,88%,0%
+Reynolds, Mark,448602,Rockies,2019,1B,0,-1,1,0,0,0,0,92%,92%,0%
+Riddle, JT,595375,Marlins,2019,SS,0,0,0,0,0,1,-1,83%,84%,-1%
+Riley, Austin,663586,Braves,2019,3B,0,1,-1,0,0,0,0,89%,87%,2%
+Rivera, Yadiel,592680,Marlins,2019,3B,0,0,0,-1,0,-1,1,75%,75%,0%
+Rizzo, Anthony,519203,Cubs,2019,1B,-3,-2,-1,1,-1,1,-4,91%,92%,-1%
+Robertson, Daniel,621002,Rays,2019,3B,3,1,-1,3,0,1,2,88%,86%,2%
+Rodgers, Brendan,663898,Rockies,2019,2B,-2,-3,0,1,0,-3,0,90%,94%,-4%
+Rodriguez, Ronny,500135,Tigers,2019,2B,-3,0,-5,2,1,-3,0,87%,88%,-1%
+Rodriguez, Sean,446481,Phillies,2019,SS,2,0,0,1,0,1,1,89%,85%,4%
+Rojas, Miguel,500743,Marlins,2019,SS,6,1,1,2,2,8,-2,88%,86%,2%
+Rondon, Jose,602922,---,2019,2B,0,1,0,-3,1,-3,2,85%,85%,0%
+Rosario, Amed,642708,Mets,2019,SS,-6,0,-7,2,0,-5,-2,86%,87%,-1%
+Ruiz, Rio,547004,Orioles,2019,3B,-6,-6,-1,2,1,-8,3,82%,85%,-3%
+Russell, Addison,608365,Cubs,2019,2B,5,1,2,1,1,3,3,88%,86%,2%
+Saladino, Tyler,573135,Brewers,2019,SS,3,1,1,0,0,1,2,97%,88%,9%
+Sanchez, Yolmer,570560,White Sox,2019,2B,2,1,-5,4,2,-2,4,91%,90%,1%
+Sandoval, Pablo,467055,Giants,2019,3B,-1,0,-1,1,-1,0,-1,88%,89%,-1%
+Sano, Miguel,593934,Twins,2019,3B,-5,-1,-3,-1,0,-3,-2,84%,86%,-2%
+Santana, Carlos,467793,Indians,2019,1B,-1,-1,-4,3,0,0,-1,92%,92%,0%
+Santana, Danny,542454,Rangers,2019,1B,-5,-1,-6,2,1,-1,-4,85%,88%,-3%
+Schoop, Jonathan,570731,Twins,2019,2B,5,-2,5,1,0,5,0,89%,87%,2%
+Seager, Corey,608369,Dodgers,2019,SS,5,0,0,4,1,4,1,88%,87%,1%
+Seager, Kyle,572122,Mariners,2019,3B,2,0,2,0,0,4,-2,87%,86%,1%
+Segura, Jean,516416,Phillies,2019,SS,-4,-2,1,-3,-1,-8,3,85%,86%,-1%
+Semien, Marcus,543760,Athletics,2019,SS,-4,0,-8,3,1,-3,0,88%,88%,0%
+Shaw, Travis,543768,Brewers,2019,3B,1,-1,-1,2,0,-1,2,84%,84%,0%
+Simmons, Andrelton,592743,Angels,2019,SS,16,7,1,8,0,14,3,93%,87%,6%
+Smith, Dominic,642086,Mets,2019,1B,1,1,1,-1,0,1,0,89%,82%,7%
+Smoak, Justin,475253,Blue Jays,2019,1B,2,2,1,-1,0,1,2,94%,92%,2%
+Sogard, Eric,519299,---,2019,2B,5,0,2,2,2,6,0,88%,86%,2%
+Solak, Nick,669256,Rangers,2019,3B,-3,-1,0,-1,-1,0,-3,77%,85%,-8%
+Solano, Donovan,456781,Giants,2019,2B,3,3,1,0,-1,2,1,90%,88%,2%
+Solarte, Yangervis,500208,Giants,2019,2B,-1,0,-2,1,0,-1,0,83%,86%,-3%
+Spangenberg, Cory,605486,Brewers,2019,2B,3,0,1,3,0,2,1,89%,83%,6%
+Stamets, Eric,608715,Indians,2019,SS,1,-1,0,2,1,1,0,87%,84%,3%
+Story, Trevor,596115,Rockies,2019,SS,15,9,-1,7,0,14,1,90%,87%,3%
+Straw, Myles,664702,Astros,2019,SS,1,0,2,1,-1,0,1,91%,90%,1%
+Suarez, Eugenio,553993,Reds,2019,3B,1,-4,-1,6,0,4,-3,85%,84%,1%
+Swanson, Dansby,621020,Braves,2019,SS,3,5,-3,0,0,-1,3,89%,88%,1%
+Tatis Jr., Fernando,665487,Padres,2019,SS,-13,-12,0,-2,1,-9,-4,83%,88%,-5%
+Taylor, Chris,621035,Dodgers,2019,SS,-2,1,-1,-1,-1,-1,0,83%,84%,-1%
+Tellez, Rowdy,642133,Blue Jays,2019,1B,-1,-2,1,0,0,0,-1,92%,92%,0%
+Thaiss, Matt,642136,Angels,2019,3B,-2,-1,1,-1,-1,-3,1,85%,87%,-2%
+Thames, Eric,519346,Brewers,2019,1B,3,2,1,1,0,2,2,92%,89%,3%
+Toro, Abraham,647351,Astros,2019,3B,2,2,1,0,0,2,0,86%,81%,5%
+Torres, Gleyber,650402,Yankees,2019,SS,-7,-1,-5,0,0,-1,-5,86%,88%,-2%
+Torreyes, Ronald,591720,Twins,2019,SS,0,0,0,0,0,0,0,70%,67%,3%
+Tovar, Wilfredo,541600,Angels,2019,SS,0,0,0,0,0,1,-1,88%,88%,0%
+Travis, Sam,607752,Red Sox,2019,1B,-2,-1,0,-1,0,0,-1,84%,93%,-9%
+Tucker, Cole,657061,Pirates,2019,SS,-2,1,-3,1,0,1,-3,86%,88%,-2%
+Tulowitzki, Troy,453064,Yankees,2019,SS,-1,-1,0,0,0,-1,0,90%,95%,-5%
+Turner, Justin,457759,Dodgers,2019,3B,4,2,-2,4,0,3,1,89%,88%,1%
+Turner, Trea,607208,Nationals,2019,SS,4,3,-1,3,-1,5,-1,89%,88%,1%
+Urena, Richard,620446,Blue Jays,2019,SS,-2,-2,0,0,0,-1,0,86%,89%,-3%
+Urias, Luis,649966,Padres,2019,SS,-1,-2,-1,2,0,-3,1,85%,86%,-1%
+Urshela, Gio,570482,Yankees,2019,3B,0,3,-2,0,-2,2,-2,87%,87%,0%
+Valaika, Pat,642162,Rockies,2019,2B,3,1,2,0,0,1,1,96%,89%,7%
+Valera, Breyvic,591971,---,2019,2B,-1,0,-2,1,0,0,0,88%,89%,-1%
+VanMeter, Josh,642165,Reds,2019,2B,-1,-1,0,0,0,0,0,88%,90%,-2%
+Vargas, Ildemaro,545121,Diamondbacks,2019,2B,2,0,1,1,1,2,0,89%,87%,2%
+Vazquez, Christian,543877,Red Sox,2019,1B,1,0,0,0,0,0,0,100%,94%,6%
+Velazquez, Andrew,623205,---,2019,2B,1,0,0,1,0,1,0,100%,92%,8%
+Villar, Jonathan,542340,Orioles,2019,2B,-12,-5,-4,-1,-1,-6,-5,86%,88%,-2%
+Vogelbach, Daniel,596129,Mariners,2019,1B,-1,-1,0,0,0,0,0,90%,91%,-1%
+Voit, Luke,572228,Yankees,2019,1B,-6,-1,-4,-1,0,-3,-3,82%,89%,-7%
+Votto, Joey,458015,Reds,2019,1B,1,-1,0,1,1,4,-3,92%,91%,1%
+Wade, Tyler,642180,Yankees,2019,2B,0,1,-2,1,0,1,-1,91%,91%,0%
+Walker, Christian,572233,Diamondbacks,2019,1B,9,1,3,4,1,-1,11,92%,88%,4%
+Walker, Neil,435522,Marlins,2019,1B,-2,-2,-2,1,0,-1,-1,87%,89%,-2%
+Walsh, Jared,665120,Angels,2019,1B,0,-1,1,0,0,0,1,90%,88%,2%
+Walton, Donnie,622268,Mariners,2019,SS,0,0,-1,1,0,1,0,91%,88%,3%
+Wendle, Joey,621563,Rays,2019,2B,1,-1,-1,2,0,-3,4,88%,88%,0%
+White, Tyler,643603,---,2019,1B,2,0,1,1,0,1,1,96%,93%,3%
+Wilkerson, Stevie,592859,Orioles,2019,2B,-1,0,0,-1,-1,-1,0,86%,89%,-3%
+Wong, Kolten,543939,Cardinals,2019,2B,10,-2,3,6,3,3,8,92%,90%,2%
+Zimmerman, Ryan,475582,Nationals,2019,1B,0,-1,1,0,-1,0,0,94%,94%,0%
+Zobrist, Ben,450314,Cubs,2019,2B,-1,-2,1,0,0,-2,1,85%,87%,-2%
+d'Arnaud, Travis,518595,Rays,2019,1B,0,-1,1,0,0,0,0,75%,76%,-1%

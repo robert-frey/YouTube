@@ -120,3 +120,9 @@ db = dbConnect(SQLite(), dbname ="D1Data.sqlite")
 #writing the D1 Hitting and Pitching table we created to the database
 dbWriteTable(conn = db, name = "D1_Hitting", D1Bat, overwrite=T, row.names = F)
 dbWriteTable(conn = db, name = "D1_Pitching", D1Pitch, overwrite=T, row.names = F)
+
+#run example query
+##WATCH MY YOUTUBE VIDEO FOR CODE##
+
+#TOP 5 Hitters in OPS with a minimum of 20 Plate Appearances
+##WATCH MY YOUTUBE VIDEO FOR CODE##

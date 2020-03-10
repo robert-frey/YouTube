@@ -1,0 +1,302 @@
+"school","conference","school_id","year","division","conference_id"
+"Albany (NY)","America East",14,2020,1,845
+"Binghamton","America East",62,2020,1,845
+"Hartford","America East",272,2020,1,845
+"Maine","America East",380,2020,1,845
+"Stony Brook","America East",683,2020,1,845
+"UMBC","America East",391,2020,1,845
+"UMass Lowell","America East",368,2020,1,845
+"Cincinnati","AAC",140,2020,1,823
+"UConn","AAC",164,2020,1,823
+"East Carolina","AAC",196,2020,1,823
+"Houston","AAC",288,2020,1,823
+"Memphis","AAC",404,2020,1,823
+"South Fla.","AAC",651,2020,1,823
+"Tulane","AAC",718,2020,1,823
+"UCF","AAC",128,2020,1,823
+"Wichita St.","AAC",782,2020,1,823
+"Davidson","Atlantic 10",173,2020,1,820
+"Dayton","Atlantic 10",175,2020,1,820
+"Fordham","Atlantic 10",236,2020,1,820
+"George Mason","Atlantic 10",248,2020,1,820
+"George Washington","Atlantic 10",249,2020,1,820
+"La Salle","Atlantic 10",340,2020,1,820
+"Massachusetts","Atlantic 10",400,2020,1,820
+"Rhode Island","Atlantic 10",572,2020,1,820
+"Richmond","Atlantic 10",575,2020,1,820
+"Saint Joseph's","Atlantic 10",606,2020,1,820
+"Saint Louis","Atlantic 10",609,2020,1,820
+"St. Bonaventure","Atlantic 10",596,2020,1,820
+"VCU","Atlantic 10",740,2020,1,820
+"Boston College","ACC",67,2020,1,821
+"Clemson","ACC",147,2020,1,821
+"Duke","ACC",193,2020,1,821
+"Florida St.","ACC",234,2020,1,821
+"Georgia Tech","ACC",255,2020,1,821
+"Louisville","ACC",367,2020,1,821
+"Miami (FL)","ACC",415,2020,1,821
+"NC State","ACC",490,2020,1,821
+"North Carolina","ACC",457,2020,1,821
+"Notre Dame","ACC",513,2020,1,821
+"Pittsburgh","ACC",545,2020,1,821
+"Virginia","ACC",746,2020,1,821
+"Virginia Tech","ACC",742,2020,1,821
+"Wake Forest","ACC",749,2020,1,821
+"FGCU","ASUN",28755,2020,1,920
+"Jacksonville","ASUN",316,2020,1,920
+"Kennesaw St.","ASUN",1157,2020,1,920
+"Liberty","ASUN",355,2020,1,920
+"Lipscomb","ASUN",28600,2020,1,920
+"NJIT","ASUN",471,2020,1,920
+"North Ala.","ASUN",487,2020,1,920
+"North Florida","ASUN",2711,2020,1,920
+"Stetson","ASUN",678,2020,1,920
+"Baylor","Big 12",51,2020,1,25354
+"Kansas","Big 12",328,2020,1,25354
+"Kansas St.","Big 12",327,2020,1,25354
+"Oklahoma","Big 12",522,2020,1,25354
+"Oklahoma St.","Big 12",521,2020,1,25354
+"TCU","Big 12",698,2020,1,25354
+"Texas","Big 12",703,2020,1,25354
+"Texas Tech","Big 12",700,2020,1,25354
+"West Virginia","Big 12",768,2020,1,25354
+"Butler","Big East",87,2020,1,30184
+"Creighton","Big East",169,2020,1,30184
+"Georgetown","Big East",251,2020,1,30184
+"Seton Hall","Big East",635,2020,1,30184
+"St. John's (NY)","Big East",603,2020,1,30184
+"Villanova","Big East",739,2020,1,30184
+"Xavier","Big East",812,2020,1,30184
+"Campbell","Big South",115,2020,1,826
+"Charleston So.","Big South",48,2020,1,826
+"Gardner-Webb","Big South",1092,2020,1,826
+"High Point","Big South",19651,2020,1,826
+"Longwood","Big South",363,2020,1,826
+"Presbyterian","Big South",1320,2020,1,826
+"Radford","Big South",563,2020,1,826
+"UNC Asheville","Big South",456,2020,1,826
+"USC Upstate","Big South",10411,2020,1,826
+"Winthrop","Big South",792,2020,1,826
+"Illinois","Big Ten",301,2020,1,827
+"Indiana","Big Ten",306,2020,1,827
+"Iowa","Big Ten",312,2020,1,827
+"Maryland","Big Ten",392,2020,1,827
+"Michigan","Big Ten",418,2020,1,827
+"Michigan St.","Big Ten",416,2020,1,827
+"Minnesota","Big Ten",428,2020,1,827
+"Nebraska","Big Ten",463,2020,1,827
+"Northwestern","Big Ten",509,2020,1,827
+"Ohio St.","Big Ten",518,2020,1,827
+"Penn St.","Big Ten",539,2020,1,827
+"Purdue","Big Ten",559,2020,1,827
+"Rutgers","Big Ten",587,2020,1,827
+"Cal Poly","Big West",90,2020,1,904
+"Cal St. Fullerton","Big West",97,2020,1,904
+"CSUN","Big West",101,2020,1,904
+"Hawaii","Big West",277,2020,1,904
+"Long Beach St.","Big West",99,2020,1,904
+"UC Davis","Big West",108,2020,1,904
+"UC Irvine","Big West",109,2020,1,904
+"UC Riverside","Big West",111,2020,1,904
+"UC Santa Barbara","Big West",104,2020,1,904
+"Col. of Charleston","CAA",1014,2020,1,837
+"Delaware","CAA",180,2020,1,837
+"Elon","CAA",1068,2020,1,837
+"Hofstra","CAA",283,2020,1,837
+"James Madison","CAA",317,2020,1,837
+"Northeastern","CAA",500,2020,1,837
+"Towson","CAA",711,2020,1,837
+"UNCW","CAA",460,2020,1,837
+"William & Mary","CAA",786,2020,1,837
+"Charlotte","C-USA",458,2020,1,24312
+"Fla. Atlantic","C-USA",229,2020,1,24312
+"FIU","C-USA",231,2020,1,24312
+"Louisiana Tech","C-USA",366,2020,1,24312
+"Marshall","C-USA",388,2020,1,24312
+"Middle Tenn.","C-USA",419,2020,1,24312
+"Old Dominion","C-USA",523,2020,1,24312
+"Rice","C-USA",574,2020,1,24312
+"Southern Miss.","C-USA",664,2020,1,24312
+"UAB","C-USA",9,2020,1,24312
+"UTSA","C-USA",706,2020,1,24312
+"Western Ky.","C-USA",772,2020,1,24312
+"UIC","Horizon",302,2020,1,881
+"Milwaukee","Horizon",797,2020,1,881
+"Northern Ky.","Horizon",505,2020,1,881
+"Oakland","Horizon",514,2020,1,881
+"Wright St.","Horizon",810,2020,1,881
+"Youngstown St.","Horizon",817,2020,1,881
+"Brown","Ivy League",80,2020,1,865
+"Columbia","Ivy League",158,2020,1,865
+"Cornell","Ivy League",167,2020,1,865
+"Dartmouth","Ivy League",172,2020,1,865
+"Harvard","Ivy League",275,2020,1,865
+"Penn","Ivy League",540,2020,1,865
+"Princeton","Ivy League",554,2020,1,865
+"Yale","Ivy League",813,2020,1,865
+"Canisius","MAAC",116,2020,1,871
+"Fairfield","MAAC",220,2020,1,871
+"Iona","MAAC",310,2020,1,871
+"Manhattan","MAAC",381,2020,1,871
+"Marist","MAAC",386,2020,1,871
+"Monmouth","MAAC",439,2020,1,871
+"Niagara","MAAC",482,2020,1,871
+"Quinnipiac","MAAC",562,2020,1,871
+"Rider","MAAC",576,2020,1,871
+"Saint Peter's","MAAC",617,2020,1,871
+"Siena","MAAC",639,2020,1,871
+"Akron","MAC",5,2020,1,875
+"Ball St.","MAC",47,2020,1,875
+"Bowling Green","MAC",71,2020,1,875
+"Central Mich.","MAC",129,2020,1,875
+"Eastern Mich.","MAC",204,2020,1,875
+"Kent St.","MAC",331,2020,1,875
+"Miami (OH)","MAC",414,2020,1,875
+"Northern Ill.","MAC",503,2020,1,875
+"Ohio","MAC",519,2020,1,875
+"Toledo","MAC",709,2020,1,875
+"Western Mich.","MAC",774,2020,1,875
+"Bethune-Cookman","MEAC",61,2020,1,876
+"Coppin St.","MEAC",165,2020,1,876
+"Delaware St.","MEAC",178,2020,1,876
+"Florida A&M","MEAC",228,2020,1,876
+"Norfolk St.","MEAC",485,2020,1,876
+"N.C. A&T","MEAC",488,2020,1,876
+"N.C. Central","MEAC",489,2020,1,876
+"UMES","MEAC",393,2020,1,876
+"Bradley","MVC",72,2020,1,884
+"DBU","MVC",1045,2020,1,884
+"Evansville","MVC",219,2020,1,884
+"Illinois St.","MVC",299,2020,1,884
+"Indiana St.","MVC",305,2020,1,884
+"Missouri St.","MVC",669,2020,1,884
+"Southern Ill.","MVC",659,2020,1,884
+"Valparaiso","MVC",735,2020,1,884
+"Air Force","Mountain West",721,2020,1,5486
+"Boise St.","Mountain West",66,2020,1,5486
+"Fresno St.","Mountain West",96,2020,1,5486
+"Nevada","Mountain West",466,2020,1,5486
+"New Mexico","Mountain West",473,2020,1,5486
+"San Diego St.","Mountain West",626,2020,1,5486
+"San Jose St.","Mountain West",630,2020,1,5486
+"UNLV","Mountain West",465,2020,1,5486
+"Bryant","NEC",81,2020,1,846
+"Central Conn. St.","NEC",127,2020,1,846
+"Fairleigh Dickinson","NEC",222,2020,1,846
+"LIU","NEC",361,2020,1,846
+"Merrimack","NEC",410,2020,1,846
+"Mount St. Mary's","NEC",450,2020,1,846
+"Sacred Heart","NEC",590,2020,1,846
+"Wagner","NEC",748,2020,1,846
+"Austin Peay","OVC",43,2020,1,902
+"Belmont","OVC",14927,2020,1,902
+"Eastern Ill.","OVC",201,2020,1,902
+"Eastern Ky.","OVC",202,2020,1,902
+"Jacksonville St.","OVC",315,2020,1,902
+"Morehead St.","OVC",444,2020,1,902
+"Murray St.","OVC",454,2020,1,902
+"SIUE","OVC",660,2020,1,902
+"Southeast Mo. St.","OVC",654,2020,1,902
+"Tennessee Tech","OVC",692,2020,1,902
+"UT Martin","OVC",695,2020,1,902
+"Arizona","Pac-12",29,2020,1,905
+"Arizona St.","Pac-12",28,2020,1,905
+"California","Pac-12",107,2020,1,905
+"Oregon","Pac-12",529,2020,1,905
+"Oregon St.","Pac-12",528,2020,1,905
+"Southern California","Pac-12",657,2020,1,905
+"Stanford","Pac-12",674,2020,1,905
+"UCLA","Pac-12",110,2020,1,905
+"Utah","Pac-12",732,2020,1,905
+"George Washington","Atlantic 10",249,2020,1,820
+"Washington St.","Pac-12",754,2020,1,905
+"Army West Point","Patriot",725,2020,1,838
+"Bucknell","Patriot",83,2020,1,838
+"Holy Cross","Patriot",285,2020,1,838
+"Lafayette","Patriot",342,2020,1,838
+"Lehigh","Patriot",352,2020,1,838
+"Navy","Patriot",726,2020,1,838
+"Alabama","SEC",8,2020,1,911
+"Arkansas","SEC",31,2020,1,911
+"Auburn","SEC",37,2020,1,911
+"Florida","SEC",235,2020,1,911
+"Georgia","SEC",257,2020,1,911
+"Kentucky","SEC",334,2020,1,911
+"LSU","SEC",365,2020,1,911
+"Mississippi St.","SEC",430,2020,1,911
+"Missouri","SEC",434,2020,1,911
+"Ole Miss","SEC",433,2020,1,911
+"South Carolina","SEC",648,2020,1,911
+"Tennessee","SEC",694,2020,1,911
+"Texas A&M","SEC",697,2020,1,911
+"Vanderbilt","SEC",736,2020,1,911
+"ETSU","SoCon",198,2020,1,912
+"Furman","SoCon",244,2020,1,912
+"Mercer","SoCon",406,2020,1,912
+"Samford","SoCon",625,2020,1,912
+"The Citadel","SoCon",141,2020,1,912
+"UNC Greensboro","SoCon",459,2020,1,912
+"VMI","SoCon",741,2020,1,912
+"Western Caro.","SoCon",769,2020,1,912
+"Wofford","SoCon",2915,2020,1,912
+"Abilene Christian","Southland",2,2020,1,914
+"Central Ark.","Southland",1004,2020,1,914
+"Houston Baptist","Southland",287,2020,1,914
+"UIW","Southland",2743,2020,1,914
+"Lamar University","Southland",346,2020,1,914
+"McNeese","Southland",402,2020,1,914
+"New Orleans","Southland",474,2020,1,914
+"Nicholls St.","Southland",483,2020,1,914
+"Northwestern St.","Southland",508,2020,1,914
+"Sam Houston St.","Southland",624,2020,1,914
+"Southeastern La.","Southland",655,2020,1,914
+"SFA","Southland",676,2020,1,914
+"A&M-Corpus Christi","Southland",26172,2020,1,914
+"Alabama A&M","SWAC",6,2020,1,916
+"Alabama St.","SWAC",7,2020,1,916
+"Alcorn","SWAC",17,2020,1,916
+"Ark.-Pine Bluff","SWAC",2678,2020,1,916
+"Grambling","SWAC",261,2020,1,916
+"Jackson St.","SWAC",314,2020,1,916
+"Mississippi Val.","SWAC",432,2020,1,916
+"Prairie View","SWAC",553,2020,1,916
+"Southern U.","SWAC",665,2020,1,916
+"Texas Southern","SWAC",699,2020,1,916
+"North Dakota St.","Summit League",493,2020,1,819
+"Omaha","Summit League",464,2020,1,819
+"Oral Roberts","Summit League",527,2020,1,819
+"Purdue Fort Wayne","Summit League",308,2020,1,819
+"South Dakota St.","Summit League",649,2020,1,819
+"Western Ill.","Summit League",771,2020,1,819
+"Appalachian St.","Sun Belt",27,2020,1,818
+"Arkansas St.","Sun Belt",30,2020,1,818
+"Coastal Carolina","Sun Belt",149,2020,1,818
+"Ga. Southern","Sun Belt",253,2020,1,818
+"Georgia St.","Sun Belt",254,2020,1,818
+"Little Rock","Sun Belt",32,2020,1,818
+"Louisiana","Sun Belt",671,2020,1,818
+"South Alabama","Sun Belt",646,2020,1,818
+"Texas St.","Sun Belt",670,2020,1,818
+"Troy","Sun Belt",716,2020,1,818
+"La.-Monroe","Sun Belt",498,2020,1,818
+"UT Arlington","Sun Belt",702,2020,1,818
+"BYU","WCC",77,2020,1,922
+"Gonzaga","WCC",260,2020,1,922
+"LMU (CA)","WCC",370,2020,1,922
+"Pacific","WCC",534,2020,1,922
+"Pepperdine","WCC",541,2020,1,922
+"Portland","WCC",551,2020,1,922
+"Saint Mary's (CA)","WCC",610,2020,1,922
+"San Diego","WCC",627,2020,1,922
+"San Francisco","WCC",629,2020,1,922
+"Santa Clara","WCC",631,2020,1,922
+"CSU Bakersfield","WAC",94,2020,1,923
+"California Baptist","WAC",30135,2020,1,923
+"Chicago St.","WAC",136,2020,1,923
+"Grand Canyon","WAC",1104,2020,1,923
+"New Mexico St.","WAC",472,2020,1,923
+"Northern Colo.","WAC",502,2020,1,923
+"Sacramento St.","WAC",102,2020,1,923
+"Seattle U","WAC",1356,2020,1,923
+"UTRGV","WAC",536,2020,1,923
+"Utah Valley","WAC",30024,2020,1,923

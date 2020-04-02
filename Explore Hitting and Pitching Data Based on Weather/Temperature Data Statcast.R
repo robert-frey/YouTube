@@ -1,3 +1,7 @@
+#libraries
+library(baseballr)
+library(tidyverse)
+
 #Read in Dataset, or whatever your Savant Dataset name is
 Savant = read.csv("SavantHittingData19.csv", stringsAsFactors = F)
 

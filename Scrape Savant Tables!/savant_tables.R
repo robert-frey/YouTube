@@ -58,12 +58,13 @@ scrape_statcast_player_table <- function(player, table_type, type = "hitting") {
   }
   #### Run Values by Pitch Type ####
   else if (table_type == "Run Values by Pitch Type") {
-    df <- url %>% xml2::read_html() %>% rvest::html_nodes(css = code) %>% .[[1]] %>% 
-      rvest::html_node("table") %>% rvest::html_table(trim=T) %>%
+    df <- url %>% xml2::read_html() %>% rvest::html_nodes(xpath = '//*[(@id = "runValues")]') %>%
+      rvest::html_table(trim=T) %>%
       data.frame(stringsAsFactors = F) %>%
-      purrr::set_names(c("Season","Pitch_Type","RV_100","Run_Value","Pitches","Pitch_Pct",
+      purrr::set_names(c("Season","Pitch_Type","Team","RV_100","Run_Value","Pitches","Pitch_Pct",
                          "PA","BA","SLG","wOBA","Whiff_Pct","K_Pct","PutAway_Pct","xBA","xSLG","xwOBA","Hard_Hit_Pct")) %>%
       dplyr::mutate(Player = player) %>%
+      dplyr::select(-Team) %>%
       dplyr::select(Season,Player,everything())
   }
   #### Swing Take ####

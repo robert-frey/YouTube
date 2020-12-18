@@ -1,0 +1,9 @@
+table_name,code
+Pitch Tracking,#detailedPitches
+Expected Home Runs by Park,#xHomeRunsParkDiv
+Batted Ball Profile,#pitchingBattedBall
+Year to Year Changes,#statcastYTY
+Plate Discipline,#playeDiscipline
+Run Values by Pitch Type,#runValuesDiv
+Swing Take,#runValuesDiv
+Percentile Rankings,#runValuesDiv

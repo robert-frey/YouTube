@@ -43,3 +43,6 @@ test <- dbGetQuery(conn = con, "SELECT * FROM minor_league_pbp_2022 LIMIT 100")
 
 # Another example SQL query that is written custom in R
 test2 <- dbGetQuery(conn = con, 'SELECT AVG("pitchData.startSpeed") AS avg_velo FROM minor_league_pbp_2022 WHERE "details.type.code" = \'FF\'')                    
+
+#Disconnect database
+ dbDisconnect(con)                                                     

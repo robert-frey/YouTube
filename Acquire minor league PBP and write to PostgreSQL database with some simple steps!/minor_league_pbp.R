@@ -28,7 +28,7 @@ plan("multisession")
 # Use purrr safely package to continue to run code in case of an error
 safe_pbp <- safely(mlb_pbp)
 
-#Acquire the minor league play-by-play data
+#Acquire the minor league play-by-play data ****THIS WILL TAKE A WHILE***
 ml_pbp <- 1:length(ml_game_pks) %>% furrr::future_map(function(x) safe_pbp(ml_game_pks[x]), .progress = T) %>%
   map('result') %>% bind_rows()
 

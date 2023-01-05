@@ -1,5 +1,6 @@
 import statsapi
 
+#THIS IS NOT THE FINAL CODE - FINAL CODE WILL BE UPDATED WHEN YOUTUBE VIDEO IS PUBLISHED
 
 # Acquire minor league play by play data
  sched_aaa = statsapi.schedule(start_date = '04/05/2022', end_date = '09/28/2022', sportId=11)

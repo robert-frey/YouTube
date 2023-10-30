@@ -10,7 +10,7 @@ ftn <- nflreadr::load_ftn_charting(season = 2023)
 ftn <- ftn %>% dplyr::select(nflverse_game_id,ftn_play_id:is_qb_fault_sack) %>%
   dplyr::rename(game_id = nflverse_game_id, play_id = nflverse_play_id)
 
-#Load in PBP from 2022
+#Load in PBP from 2023
 nfl_pbp <- nflreadr::load_pbp(2023)
 
 #Join the Datasets together (FTN, PBP)

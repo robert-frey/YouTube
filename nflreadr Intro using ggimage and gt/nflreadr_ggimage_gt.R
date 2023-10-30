@@ -5,20 +5,20 @@ library(gtExtras)
 library(ggimage)
 
 #Get FTN Data
-ftn <- nflreadr::load_ftn_charting(season = 2022)
+ftn <- nflreadr::load_ftn_charting(season = 2023)
 
 ftn <- ftn %>% dplyr::select(nflverse_game_id,ftn_play_id:is_qb_fault_sack) %>%
   dplyr::rename(game_id = nflverse_game_id, play_id = nflverse_play_id)
 
 #Load in PBP from 2022
-nfl_pbp <- nflreadr::load_pbp(2022)
+nfl_pbp <- nflreadr::load_pbp(2023)
 
 #Join the Datasets together (FTN, PBP)
 pbp <- left_join(nfl_pbp,ftn,by=c("game_id","play_id")) %>%
   dplyr::filter(!is.na(ftn_play_id))
 
 #Import Rosters and Teams
-rost <- load_rosters(2022) %>% select(gsis_id,full_name,headshot_url)
+rost <- load_rosters(2023) %>% select(gsis_id,full_name,headshot_url)
 
 teams <- load_teams() %>% select(posteam = team_abbr, espn_logo = team_logo_espn)
 
@@ -53,7 +53,7 @@ ggplot(motion,aes(x=EPA_play,y=pct)) +
   xlab("EPA/play") +
   ylab("Motion%") +
   ggtitle("NFL Teams' EPA Per Play by Frequency of Pre-Snap Motion",
-         subtitle = "2022 Season")
+         subtitle = "2023 Season")
 
 #Play Action analysis
 pa <- pbp %>% dplyr::filter(is_play_action == T, !is.na(passer_player_id),
@@ -74,7 +74,7 @@ ggplot(pa,aes(x=EPA_play,y=plays)) +
   xlab("EPA/play") +
   ylab("Play Action Plays") +
   ggtitle("QBs EPA per Play Action (min. 25 plays)",
-          subtitle = "2022 Season")
+          subtitle = "2023 Season")
 
 #QB Pressure on Third Down analysis
 pressure <- pbp %>% dplyr::filter(n_pass_rushers >= 5, !is.na(passer_player_id),
@@ -112,6 +112,6 @@ pressure %>% select(team = espn_logo,name = full_name,plays,EPA_play) %>%
              name = "Name",
              plays = "Plays") %>%
   opt_table_font(font = list(google_font(name = "Roboto Condensed"),default_fonts())) %>%
-  tab_header(title = "QBs EPA/Play on 3rd Down Facing 5+ Rushers", subtitle = "2022 Season (min. 10 plays)") %>%
+  tab_header(title = "QBs EPA/Play on 3rd Down Facing 5+ Rushers", subtitle = "2023 Season (min. 10 plays)") %>%
   opt_table_lines() %>%
   tab_footnote(footnote = "Data: nflreadr, Table: @RobertFrey40")

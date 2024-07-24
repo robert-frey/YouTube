@@ -9,7 +9,6 @@ import sqlite3
 
 #initial connection to statcast DB
 conn = sqlite3.connect('minor_league_statcast.db')
-c = conn.cursor()
 
 #acquire opening day data for testing
 od = datetime(2024, 3, 29)

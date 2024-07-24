@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: @RobertFrey40
+Buy me a coffee!: https://buymeacoffee.com/robertfrey40
 """
 import pandas as pd
 from datetime import datetime, timedelta

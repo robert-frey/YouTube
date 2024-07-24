@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 18 22:02:25 2024
-
-@author: rfrey
+@author: @RobertFrey40
+Buy me a coffee!: https://buymeacoffee.com/robertfrey40
 """
 import numpy as np
 import pandas as pd

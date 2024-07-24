@@ -22,7 +22,7 @@ current_date = od
 today = datetime.today()
 
 #Loop through each day to acquire minor league statcast data
-while current_date <= datetime(2024,4,2):
+while current_date <= today:
     date_str = current_date.strftime('%Y-%m-%d')
     print(f"Fetching minor league statcast data for {date_str}")
     

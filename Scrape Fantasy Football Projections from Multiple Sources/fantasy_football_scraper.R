@@ -46,4 +46,6 @@ nfl_rb <- nfl[[2]] %>% left_join(.,players %>% select(player=display_name,pos=po
 nfl_wr <- nfl[[3]] %>% left_join(.,players %>% select(player=display_name,pos=position,gsis_id),by=c("player","pos")) %>% select(gsis_id, nfl_adp, nfl_projected_fantasy_points_ppr)
 nfl_te <- nfl[[4]] %>% left_join(.,players %>% select(player=display_name,pos=position,gsis_id),by=c("player","pos")) %>% select(gsis_id, nfl_adp, nfl_projected_fantasy_points_ppr)
 
+
 ##### WATCH YOUTUBE VIDEO FOR REMAINING CODE #####
+#YT VIDEO LINK <- "https://youtu.be/8_CwupfkPq0"
